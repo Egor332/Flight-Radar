@@ -9,14 +9,23 @@
       "FlightRadar/1.0.0": {
         "dependencies": {
           "Microsoft.DotNet.ILCompiler": "8.0.2",
-          "Microsoft.NET.ILLink.Tasks": "8.0.2"
+          "Microsoft.NET.ILLink.Tasks": "8.0.2",
+          "NetworkSourceSimulator": "1.0.0.0"
         },
         "runtime": {
           "FlightRadar.dll": {}
         }
       },
       "Microsoft.DotNet.ILCompiler/8.0.2": {},
-      "Microsoft.NET.ILLink.Tasks/8.0.2": {}
+      "Microsoft.NET.ILLink.Tasks/8.0.2": {},
+      "NetworkSourceSimulator/1.0.0.0": {
+        "runtime": {
+          "NetworkSourceSimulator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -38,6 +47,11 @@
       "sha512": "sha512-hKTrehpfVzOhAz0mreaTAZgbz0DrMEbWq4n3hAo8Ks6WdxdqQhNPvzOqn9VygKuWf1bmxPdraqzTaXriO/sn0A==",
       "path": "microsoft.net.illink.tasks/8.0.2",
       "hashPath": "microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+    },
+    "NetworkSourceSimulator/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightRadar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59e3a9e0a207321e7bc3e81635c75e1bc72ac832")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5926573094428af8fbc42cf2c7d291f9a9456db8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightRadar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightRadar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

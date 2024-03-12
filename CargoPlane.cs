@@ -20,5 +20,10 @@ namespace FlightRadar
         {
             Single.TryParse(args[5], out MaxLoad);
         }
+
+        public CargoPlane(byte[] args, UInt16 additionalOffset) : base(args, out additionalOffset)
+        {
+            MaxLoad = BitConverter.ToSingle(args, 30 + additionalOffset);
+        }
     }
 }

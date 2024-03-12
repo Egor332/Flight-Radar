@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kegor\\source\\repos\\WUT-MiNI\\ProjOb_24L_01184342\\FlightRadar.csproj": {}
+    "C:\\Users\\kegor\\Source\\Repos\\WUT-MiNI\\ProjOb_24L_01184342_try\\FlightRadar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kegor\\source\\repos\\WUT-MiNI\\ProjOb_24L_01184342\\FlightRadar.csproj": {
+    "C:\\Users\\kegor\\Source\\Repos\\WUT-MiNI\\ProjOb_24L_01184342_try\\FlightRadar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kegor\\source\\repos\\WUT-MiNI\\ProjOb_24L_01184342\\FlightRadar.csproj",
+        "projectUniqueName": "C:\\Users\\kegor\\Source\\Repos\\WUT-MiNI\\ProjOb_24L_01184342_try\\FlightRadar.csproj",
         "projectName": "FlightRadar",
-        "projectPath": "C:\\Users\\kegor\\source\\repos\\WUT-MiNI\\ProjOb_24L_01184342\\FlightRadar.csproj",
+        "projectPath": "C:\\Users\\kegor\\Source\\Repos\\WUT-MiNI\\ProjOb_24L_01184342_try\\FlightRadar.csproj",
         "packagesPath": "C:\\Users\\kegor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kegor\\source\\repos\\WUT-MiNI\\ProjOb_24L_01184342\\obj\\",
+        "outputPath": "C:\\Users\\kegor\\Source\\Repos\\WUT-MiNI\\ProjOb_24L_01184342_try\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kegor\\AppData\\Roaming\\NuGet\\NuGet.Config",

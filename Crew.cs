@@ -24,6 +24,12 @@ namespace FlightRadar
             Role = args[7];
         }
 
+        public Crew(byte[] args, UInt16 additionalOffset) : base(args, out additionalOffset)
+        {
+            Practice = BitConverter.ToUInt16(args, 33 + additionalOffset);
+            Role = Encoding.ASCII.GetString(args, 35 + additionalOffset, 1);
+        }
+
 
     }
 }

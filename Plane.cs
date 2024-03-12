@@ -6,27 +6,42 @@ using System.Threading.Tasks;
 
 namespace FlightRadar
 {
-    abstract internal class Plane
+    abstract internal class Plane : BaseOfAll
     {
-        public readonly UInt64 Id;
         public string Serial;
         public string Country; // ISO
         public string Model;
 
-        protected Plane(UInt64 id, string serial, string country, string model)
+        protected Plane(UInt64 id, string serial, string country, string model) : base(id)
         {
-            Id = id;
             Serial = serial;
             Country = country;
             Model = model;
         }
 
-        protected Plane(string[] args)
+        protected Plane(string[] args) : base(args[1])
         {
-            UInt64.TryParse(args[1], out Id);
             Serial = args[2];
             Country = args[3];
             Model = args[4];
+        }
+
+        protected Plane(byte[] args, out  UInt16 additionalOffset) : base(args)
+        {
+            char[] serial = new char[10];
+            ReadCharArray(args, 10, 15, serial);
+            Serial = new string(serial);
+
+            char[] country = new char[3];
+            ReadCharArray(args, 3, 25, country);
+            Country = new string(country);
+
+            UInt16 modelLength = BitConverter.ToUInt16(args, 28);
+            char[] model = new char[modelLength];
+            ReadCharArray(args, modelLength, 30, model);
+            Model = new string(model);
+
+            additionalOffset = modelLength;
         }
     }
 }

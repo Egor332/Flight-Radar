@@ -10,6 +10,7 @@ namespace FlightRadar
     internal class Reader
     {
         private string _FileName;
+        private Generator _Generator;
 
         public Reader(string fileName)
         {
@@ -19,7 +20,6 @@ namespace FlightRadar
         public void ReadAll(out Data data)
         {
             data = new Data();
-            Generator generator = new Generator();
 
             StreamReader sr = new StreamReader(_FileName);
             
@@ -27,7 +27,7 @@ namespace FlightRadar
             while ((line = sr.ReadLine()) != null)
             {                
                 string[] argumentsArray = line.Split(',');
-                generator.Generate(argumentsArray, data);
+                _Generator.Generate(argumentsArray, data);
             }
 
 

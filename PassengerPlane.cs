@@ -26,5 +26,12 @@ namespace FlightRadar
             UInt16.TryParse(args[6], out BusinessClassSize);
             UInt16.TryParse(args[7], out EconomyClassSize);
         }
+
+        public PassengerPlane(byte[] args, UInt16 additionalOffset) : base(args, out additionalOffset)
+        {
+            FirstClassSize = BitConverter.ToUInt16(args, 30 + additionalOffset);
+            BusinessClassSize =  BitConverter.ToUInt16(args, 32 + additionalOffset);
+            EconomyClassSize = BitConverter.ToUInt16(args, 34 + additionalOffset);
+        }
     }
 }
