@@ -60,3 +60,7 @@ C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342_try\obj\Debug\net8.0\re
 C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342_try\bin\Debug\net8.0\NetworkSourceSimulator.dll
 C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342_try\obj\Debug\net8.0\FlightRadar.csproj.AssemblyReference.cache
 C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342_try\obj\Debug\net8.0\FlightRa.43327453.Up2Date
+C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342\obj\Debug\net8.0\FlightRadar.sourcelink.json
+C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342\bin\Debug\net8.0\NetworkSourceSimulator.dll
+C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342\obj\Debug\net8.0\FlightRadar.csproj.AssemblyReference.cache
+C:\Users\kegor\Source\Repos\WUT-MiNI\ProjOb_24L_01184342\obj\Debug\net8.0\FlightRa.43327453.Up2Date
