@@ -45,6 +45,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FlightTrackerGUI": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MapsUI": {
+              "target": "Package",
+              "version": "[4.1.5, )"
+            },
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",

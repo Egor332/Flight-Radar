@@ -16,4 +16,9 @@
     </Reference>
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FlightTrackerGUI" Version="1.0.0" />
+    <PackageReference Include="MapsUI" Version="4.1.5" />
+  </ItemGroup>
+
 </Project>
