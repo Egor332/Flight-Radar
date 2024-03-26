@@ -16,18 +16,15 @@ namespace FlightRadar
         {
             
             Data data1 = new Data();
-            NetworkSourceSimulator.NetworkSourceSimulator server = new NetworkSourceSimulator.NetworkSourceSimulator("example_data.ftr", 10, 50);
-            Thread serverThread = new Thread(() => ServerWork(server));
-
             Generator generator = new Generator(dataMutex);
-            MessageHandler messageHandler = new MessageHandler(data1, server, generator);
-            server.OnNewDataReady += messageHandler.HandleNewDataReady;
+            Reader myReader = new Reader("example_data.ftr", generator);
+            myReader.ReadAll(out data1);
+            serverEnd = true;
 
             Thread terminalThread = new Thread(() =>  TerminalWork(data1) );
 
             Thread GUIThread = new Thread(() => GraphicalWork());
 
-            serverThread.Start();
             terminalThread.Start();
             GUIThread.Start();
 
@@ -35,17 +32,14 @@ namespace FlightRadar
 
             if (exitCommand)
             {
-                serverThread.Interrupt();
                 GUIThread.Interrupt();
                 Console.WriteLine("Application interapted");
                 return;
             }
 
             FlightsGUIData GUIData = new FlightsGUIData();
-            DataToFlightGUITransformer transformer = new DataToFlightGUITransformer(dataMutex, data1.FlightList, GUIData, data1.AirportList);
-            transformer.DataToGUIDataFirstTime();
-
-            data1.WriteToJson("DataInJson.json");
+            DataToFlightGUITransformer transformer = new DataToFlightGUITransformer(data1.FlightList, GUIData, data1.AirportList);
+            transformer.DataToGUIDataFirstTime();           
             
             while (!exitCommand)
             {
@@ -54,6 +48,8 @@ namespace FlightRadar
                 FlightTrackerGUI.Runner.UpdateGUI(GUIData);              
             }
             GUIThread.Interrupt();
+
+            data1.WriteToJson("DataInJson.json");
         }
 
         static void ServerWork(NetworkSourceSimulator.NetworkSourceSimulator server)

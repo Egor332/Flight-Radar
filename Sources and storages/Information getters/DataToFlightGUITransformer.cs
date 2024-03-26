@@ -13,7 +13,6 @@ namespace FlightRadar.Sources_and_storages
 {
     internal class DataToFlightGUITransformer
     {
-        private Mutex _DataMutex;
 
         private List<Flight> _FlightsList;
 
@@ -21,9 +20,8 @@ namespace FlightRadar.Sources_and_storages
 
         private Dictionary<UInt64, Airport> _AirportDictionary;
 
-        public DataToFlightGUITransformer(Mutex dataMutex, List<Flight> flightsList, FlightsGUIData flightsData, List<Airport> airportsList)
+        public DataToFlightGUITransformer(List<Flight> flightsList, FlightsGUIData flightsData, List<Airport> airportsList)
         {
-            _DataMutex = dataMutex;
             _FlightsList = flightsList;
             _FlightsData = flightsData;
             _AirportDictionary = new Dictionary<UInt64, Airport>();
@@ -66,12 +64,15 @@ namespace FlightRadar.Sources_and_storages
 
             foreach (Flight flight in _FlightsList)
             {
-                Single precentage = FindPrecentageOfFlight(flight.TakeOffTime, flight.LandingTime);
+                Single percentage = FindPrecentageOfFlight(flight.TakeOffTime, flight.LandingTime);
+                if (percentage <= 0 || percentage >= 1)
+                {
+                    continue;
+                }
 
                 Single lon;
                 Single lat;
-
-                (lon, lat) = GetCurrentLonLat(flight, precentage);
+                (lon, lat) = GetCurrentLonLat(flight, percentage);
 
                 double angle = GetAngle(lon, lat, flight.Longtitude, flight.Latitude);
 
@@ -88,21 +89,28 @@ namespace FlightRadar.Sources_and_storages
         
         private Single FindPrecentageOfFlight(string TakeOffTime, string LandingTime)
         {
-            DateTime startTime;
-            DateTime endTime;
-            if ((!DateTime.TryParse(TakeOffTime, out startTime)) || (!DateTime.TryParse(LandingTime, out endTime)))
+            TimeOnly startTime;
+            TimeOnly endTime;
+
+            if ((!TimeOnly.TryParse(TakeOffTime, out startTime)) || (!TimeOnly.TryParse(LandingTime, out endTime)))
             {
                 Console.WriteLine("Time parse error");
-                return 0;
+                return -1;
             }
-            DateTime currentTime = DateTime.Now;
-            // currentTime.AddHours(7);
+
+            TimeOnly currentTime = TimeOnly.FromDateTime(DateTime.Now);
+
+            if (!currentTime.IsBetween(startTime, endTime))
+            {
+                return -1;
+            }
+
             TimeSpan wholeInterval =  endTime - startTime;
             TimeSpan currentInterval = currentTime - startTime;
 
-            Single precentage = (Single)(currentInterval.TotalMilliseconds / wholeInterval.TotalMilliseconds);
+            Single percentage = (Single)(currentInterval.TotalMilliseconds / wholeInterval.TotalMilliseconds);
 
-            return precentage;
+            return percentage;
         }
 
         private (Single, Single) GetCurrentLonLat(Flight flight, Single precentage)
@@ -142,7 +150,6 @@ namespace FlightRadar.Sources_and_storages
 
             return Math.Atan2(dx, dy);
         }
-
 
     }
 }

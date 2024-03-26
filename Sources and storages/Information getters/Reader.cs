@@ -12,9 +12,10 @@ namespace FlightRadar
         private string _FileName;
         private Generator _Generator;
 
-        public Reader(string fileName)
+        public Reader(string fileName, Generator generator)
         {
             _FileName = fileName;
+            _Generator = generator;
         }
 
         public void ReadAll(out Data data)
