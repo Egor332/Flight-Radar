@@ -1,4 +1,6 @@
-﻿using System;
+﻿using FlightRadar.Entities.Classes.Media;
+using FlightRadar.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FlightRadar
 {
-    internal class PassengerPlane : Plane
+    internal class PassengerPlane : Plane, IReportable
     {
         public const string Object = "PP";
         public UInt16 FirstClassSize;
@@ -32,6 +34,11 @@ namespace FlightRadar
             FirstClassSize = BitConverter.ToUInt16(args, 30 + additionalOffset);
             BusinessClassSize =  BitConverter.ToUInt16(args, 32 + additionalOffset);
             EconomyClassSize = BitConverter.ToUInt16(args, 34 + additionalOffset);
+        }
+
+        public string Report(MediaBase media)
+        {
+            return media.GetDefaultNewsAboutObject(this);
         }
     }
 }

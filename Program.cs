@@ -1,4 +1,7 @@
-﻿using FlightRadar.Sources_and_storages;
+﻿using FlightRadar.Entities.Classes.Media;
+using FlightRadar.Interfaces;
+using FlightRadar.Sources_and_storages;
+using FlightRadar.Sources_and_storages.Storages;
 using NetworkSourceSimulator;
 using System.Text.Json;
 
@@ -14,14 +17,19 @@ namespace FlightRadar
 
         static void Main(string[] args)
         {
+
+            
             
             Data data1 = new Data();
+            MediaData defaultMedia = new MediaData();
             Generator generator = new Generator(dataMutex);
+
+            // use reading from ftr file
             Reader myReader = new Reader("example_data.ftr", generator);
             myReader.ReadAll(out data1);
             serverEnd = true;
 
-            Thread terminalThread = new Thread(() =>  TerminalWork(data1) );
+            Thread terminalThread = new Thread(() =>  TerminalWork(data1, defaultMedia) );
 
             Thread GUIThread = new Thread(() => GraphicalWork());
 
@@ -33,7 +41,7 @@ namespace FlightRadar
             if (exitCommand)
             {
                 GUIThread.Interrupt();
-                Console.WriteLine("Application interapted");
+                Console.WriteLine("Application interrupted");
                 return;
             }
 
@@ -66,7 +74,7 @@ namespace FlightRadar
             serverEnd = true;
         }
 
-        static void TerminalWork(Data data)
+        static void TerminalWork(Data data, MediaData? mediaData)
         {
             while (!exitCommand)
             {
@@ -87,6 +95,19 @@ namespace FlightRadar
                         "_" + dateTime.Second.ToString() + ".json";
                     data.WriteToJson(fileName);
                     dataMutex.ReleaseMutex();
+                }
+                if (input.ToLower() == "report")
+                {
+                    List<IReportable> objectsToReport = new List<IReportable>();
+                    objectsToReport.AddRange(data.PassengerPlaneList);
+                    objectsToReport.AddRange(data.CargoPlaneList);
+                    objectsToReport.AddRange(data.AirportList);
+                    NewsGenerator newsGenerator = new NewsGenerator(objectsToReport, mediaData.ListOfMedia);
+                    string? reportString;
+                    while ((reportString = newsGenerator.GenerateNextNews()) != null)
+                    {
+                        Console.WriteLine(reportString);
+                    }
                 }
                 if (input.ToLower() == "sotp")
                 {

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using FlightRadar.Entities.Classes.Media;
+using FlightRadar.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FlightRadar
 {
-    internal class CargoPlane : Plane
+    internal class CargoPlane : Plane, IReportable
     {
         public const string Object = "CP";
         public Single MaxLoad;
@@ -24,6 +26,11 @@ namespace FlightRadar
         public CargoPlane(byte[] args, UInt16 additionalOffset) : base(args, out additionalOffset)
         {
             MaxLoad = BitConverter.ToSingle(args, 30 + additionalOffset);
+        }
+
+        public string Report(MediaBase media)
+        {
+            return media.GetDefaultNewsAboutObject(this);
         }
     }
 }

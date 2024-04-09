@@ -1,4 +1,6 @@
-﻿using System;
+﻿using FlightRadar.Entities.Classes.Media;
+using FlightRadar.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FlightRadar
 {
-    internal class Airport : BaseOfAll
+    internal class Airport : BaseOfAll, IReportable
     {
         public const string Object = "AI";
         public string Name;
@@ -56,6 +58,11 @@ namespace FlightRadar
             char[] country = new char[3];
             ReadCharArray(args, 3, 32 + nameLenght, country);
             Country = new string(country);
+        }
+
+        public string Report(MediaBase media)
+        {
+            return media.GetDefaultNewsAboutObject(this);
         }
     }
 }
