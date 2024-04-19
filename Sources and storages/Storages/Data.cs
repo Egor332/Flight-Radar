@@ -10,23 +10,23 @@ namespace FlightRadar
 {
     internal class Data
     {
-        public List<Crew> CrewList;
-        public List<Passenger> PassengerList;
-        public List<Cargo> CargoList;
-        public List<CargoPlane> CargoPlaneList;
-        public List<PassengerPlane> PassengerPlaneList;
-        public List<Airport> AirportList;
-        public List<Flight> FlightList;
+        public Dictionary<UInt64, Crew> CrewDictionary;
+        public Dictionary<UInt64, Passenger> PassengerDictionary;
+        public Dictionary<UInt64, Cargo> CargoDictionary;
+        public Dictionary<UInt64, CargoPlane> CargoPlaneDictionary;
+        public Dictionary<UInt64, PassengerPlane> PassengerPlaneDictionary;
+        public Dictionary<UInt64, Airport> AirportDictionary;
+        public Dictionary<UInt64, Flight> FlightDictionary;
 
         public Data()
         {
-            CrewList = new List<Crew>();
-            PassengerList = new List<Passenger>();
-            CargoList = new List<Cargo>();
-            CargoPlaneList = new List<CargoPlane>();
-            PassengerPlaneList = new List<PassengerPlane>();
-            AirportList = new List<Airport>();
-            FlightList = new List<Flight>();
+            CrewDictionary = new Dictionary<UInt64, Crew>();
+            PassengerDictionary = new Dictionary<UInt64, Passenger>();
+            CargoDictionary = new Dictionary<UInt64, Cargo>();
+            CargoPlaneDictionary = new Dictionary<UInt64, CargoPlane>();
+            PassengerPlaneDictionary = new Dictionary<UInt64, PassengerPlane>();
+            AirportDictionary = new Dictionary<UInt64, Airport>();
+            FlightDictionary = new Dictionary<UInt64, Flight>();
         }
 
         public void WriteToJson(string fileName)

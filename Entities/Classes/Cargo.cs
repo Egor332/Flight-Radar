@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FlightRadar.Entities.Abstract_classes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FlightRadar
 {
-    internal class Cargo : BaseOfAll
+    internal class Cargo : BaseOfAll, ILoadable
     {
         public const string Object = "CA";
         public Single Weight;

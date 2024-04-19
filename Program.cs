@@ -4,6 +4,7 @@ using FlightRadar.Sources_and_storages;
 using FlightRadar.Sources_and_storages.Storages;
 using NetworkSourceSimulator;
 using System.Text.Json;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace FlightRadar
 {
@@ -16,22 +17,28 @@ namespace FlightRadar
         static Mutex dataMutex = new Mutex();
 
         static void Main(string[] args)
-        {
-
-            
+        {           
             
             Data data1 = new Data();
             MediaData defaultMedia = new MediaData();
             Generator generator = new Generator(dataMutex);
 
-            // use reading from ftr file
-            Reader myReader = new Reader("example_data.ftr", generator);
-            myReader.ReadAll(out data1);
-            serverEnd = true;
-
-            Thread terminalThread = new Thread(() =>  TerminalWork(data1, defaultMedia) );
+            Thread terminalThread = new Thread(() => TerminalWork(data1, defaultMedia));
 
             Thread GUIThread = new Thread(() => GraphicalWork());
+
+            // use reading from ftr file
+            UseReadingFormFile(out data1, generator);
+
+            // use server reading
+            /*NetworkSourceSimulator.NetworkSourceSimulator server = new NetworkSourceSimulator.NetworkSourceSimulator("example.ftre", 10, 50);
+            Thread serverThread = new Thread(() => ServerWork(server));
+            MessageHandler messageHandler = new MessageHandler(data1, server, generator);
+            server.OnNewDataReady += messageHandler.HandleNewDataReady;
+            server.OnIDUpdate += messageHandler.HandleIDUpdate;
+            server.OnPositionUpdate += messageHandler.HandlePositionUpdate;
+            server.OnContactInfoUpdate += messageHandler.HandleContactInfoUpdate;
+            serverThread.Start();*/
 
             terminalThread.Start();
             GUIThread.Start();
@@ -46,7 +53,7 @@ namespace FlightRadar
             }
 
             FlightsGUIData GUIData = new FlightsGUIData();
-            DataToFlightGUITransformer transformer = new DataToFlightGUITransformer(data1.FlightList, GUIData, data1.AirportList);
+            DataToFlightGUITransformer transformer = new DataToFlightGUITransformer(data1.FlightDictionary.Values.ToList(), GUIData, data1.AirportDictionary);
             transformer.DataToGUIDataFirstTime();           
             
             while (!exitCommand)
@@ -60,6 +67,11 @@ namespace FlightRadar
             data1.WriteToJson("DataInJson.json");
         }
 
+        private static void Server_OnContactInfoUpdate(object sender, ContactInfoUpdateArgs args)
+        {
+            throw new NotImplementedException();
+        }
+
         static void ServerWork(NetworkSourceSimulator.NetworkSourceSimulator server)
         {
             try
@@ -71,6 +83,23 @@ namespace FlightRadar
             {
                 Console.WriteLine("Server was interapted");
             }                    
+            serverEnd = true;
+        }
+
+        static void UseServerReading(Data data, Generator generator)
+        {
+            NetworkSourceSimulator.NetworkSourceSimulator server = new NetworkSourceSimulator.NetworkSourceSimulator("example_data.ftr", 10, 50);
+            Thread serverThread = new Thread(() => ServerWork(server));
+            MessageHandler messageHandler = new MessageHandler(data, server, generator);
+            server.OnNewDataReady += messageHandler.HandleNewDataReady;
+            serverThread.Start();
+
+        }
+
+        static void UseReadingFormFile(out Data data, Generator generator)
+        {
+            Reader myReader = new Reader("example_data.ftr", generator);
+            myReader.ReadAll(out data);
             serverEnd = true;
         }
 
@@ -98,10 +127,12 @@ namespace FlightRadar
                 }
                 if (input.ToLower() == "report")
                 {
-                    List<IReportable> objectsToReport = new List<IReportable>();
-                    objectsToReport.AddRange(data.PassengerPlaneList);
-                    objectsToReport.AddRange(data.CargoPlaneList);
-                    objectsToReport.AddRange(data.AirportList);
+                    List<IReportable> objectsToReport =
+                    [
+                        .. data.PassengerPlaneDictionary.Values.ToList(),
+                        .. data.CargoPlaneDictionary.Values.ToList(),
+                        .. data.AirportDictionary.Values.ToList(),
+                    ];
                     NewsGenerator newsGenerator = new NewsGenerator(objectsToReport, mediaData.ListOfMedia);
                     string? reportString;
                     while ((reportString = newsGenerator.GenerateNextNews()) != null)

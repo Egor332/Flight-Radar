@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FlightRadar.Entities.Abstract_classes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,10 @@ namespace FlightRadar
 {
     internal class Flight : BaseOfAll
     {
+        public static Dictionary<UInt64, Plane> PlaneDictionary = new Dictionary<UInt64, Plane>();
+        public static Dictionary<UInt64, Crew> CrewDictionary = new Dictionary<UInt64, Crew>();
+        public static Dictionary<UInt64, ILoadable> LoadDictionary = new Dictionary<UInt64, ILoadable>();
+
         public const string Object = "FL";
         public UInt64 OriginId;
         public UInt64 TargetId;

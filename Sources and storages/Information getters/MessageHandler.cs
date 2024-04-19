@@ -32,5 +32,21 @@ namespace FlightRadar
             _Generator.Generate(message.MessageBytes, _Data);
             
         }
+
+        public void HandleIDUpdate(object sender, IDUpdateArgs e)
+        {
+
+        }
+
+
+        public void HandlePositionUpdate(object sender, PositionUpdateArgs e)
+        {
+
+        }
+
+        public void HandleContactInfoUpdate(object sender, ContactInfoUpdateArgs e)
+        {
+
+        }
     }
 }

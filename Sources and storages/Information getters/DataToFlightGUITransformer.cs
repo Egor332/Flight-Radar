@@ -20,15 +20,12 @@ namespace FlightRadar.Sources_and_storages
 
         private Dictionary<UInt64, Airport> _AirportDictionary;
 
-        public DataToFlightGUITransformer(List<Flight> flightsList, FlightsGUIData flightsData, List<Airport> airportsList)
+        public DataToFlightGUITransformer(List<Flight> flightsList, FlightsGUIData flightsData, Dictionary<UInt64, Airport> airportsDictionary)
         {
             _FlightsList = flightsList;
             _FlightsData = flightsData;
-            _AirportDictionary = new Dictionary<UInt64, Airport>();
-            foreach (Airport airport in airportsList)
-            {
-                _AirportDictionary.Add(airport.Id, airport);
-            }
+            _AirportDictionary = airportsDictionary;
+            
         }
 
         public void DataToGUIDataFirstTime()

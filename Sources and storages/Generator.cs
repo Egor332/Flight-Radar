@@ -59,81 +59,91 @@ namespace FlightRadar
         {
             UInt16 offset = 0;
             Crew newCrew = new Crew(args, offset);
-            data.CrewList.Add(newCrew);
+            data.CrewDictionary.Add(newCrew.Id, newCrew);
+            Flight.CrewDictionary.Add(newCrew.Id, newCrew);
         }
         private static void GenerateCrew(string[] args, Data data)
         {
             Crew crew = new Crew(args);
-            data.CrewList.Add(crew);
+            data.CrewDictionary.Add(crew.Id, crew);
+            Flight.CrewDictionary.Add(crew.Id, crew);
         }
 
         private static void GeneratePassenger(byte[] args, Data data)
         {
             UInt16 offset = 0;
             Passenger newPassenger = new Passenger(args, offset);
-            data.PassengerList.Add(newPassenger);
+            data.PassengerDictionary.Add(newPassenger.Id, newPassenger);
+            Flight.LoadDictionary.Add(newPassenger.Id, newPassenger);
         }
         private static void GeneratePassenger(string[] args, Data data)
         {
             Passenger passenger = new Passenger(args);
-            data.PassengerList.Add(passenger);
+            data.PassengerDictionary.Add(passenger.Id, passenger);
+            Flight.LoadDictionary.Add(passenger.Id, passenger);
         }
 
         private static void GenerateCargo(byte[] args, Data data)
         {
             Cargo newCargo = new Cargo(args);
-            data.CargoList.Add(newCargo);
+            data.CargoDictionary.Add(newCargo.Id, newCargo);
+            Flight.LoadDictionary.Add(newCargo.Id, newCargo);
         }
         private static void GenerateCargo(string[] args, Data data)
         {
             Cargo cargo = new Cargo(args);
-            data.CargoList.Add(cargo);
+            data.CargoDictionary.Add(cargo.Id, cargo);
+            Flight.LoadDictionary.Add(cargo.Id, cargo);
         }
 
         private static void GenerateCargoPlane(byte[] args, Data data)
         {
             UInt16 offset = 0;
             CargoPlane newCargoPlane = new CargoPlane(args, offset);
-            data.CargoPlaneList.Add(newCargoPlane);
+            data.CargoPlaneDictionary.Add(newCargoPlane.Id, newCargoPlane);
+            Flight.PlaneDictionary.Add(newCargoPlane.Id, newCargoPlane);
         }
         private static void GenerateCargoPlane(string[] args, Data data)
         {
             CargoPlane cargoPlane = new CargoPlane(args);
-            data.CargoPlaneList.Add(cargoPlane);
+            data.CargoPlaneDictionary.Add(cargoPlane.Id, cargoPlane);
+            Flight.PlaneDictionary.Add(cargoPlane.Id, cargoPlane);
         }
 
         private static void GeneratePassengerPlane(byte[] args, Data data)
         {
             UInt16 offset = 0;
             PassengerPlane newPassengerPlane = new PassengerPlane(args, offset);
-            data.PassengerPlaneList.Add(newPassengerPlane);
+            data.PassengerPlaneDictionary.Add(newPassengerPlane.Id, newPassengerPlane);
+            Flight.PlaneDictionary.Add(newPassengerPlane.Id, newPassengerPlane);
         }
         private static void GeneratePassengerPlane(string[] args, Data data)
         {
             PassengerPlane passengerPlane = new PassengerPlane(args);
-            data.PassengerPlaneList.Add(passengerPlane);
+            data.PassengerPlaneDictionary.Add(passengerPlane.Id, passengerPlane);
+            Flight.PlaneDictionary.Add(passengerPlane.Id, passengerPlane);
         }
 
         private static void GenerateAirport(byte[] args, Data data)
         {
             Airport newAirport = new Airport(args);
-            data.AirportList.Add(newAirport);
+            data.AirportDictionary.Add(newAirport.Id, newAirport);
         }
         private static void GenerateAirport(string[] args, Data data)
         {
             Airport airport = new Airport(args);
-            data.AirportList.Add(airport);
+            data.AirportDictionary.Add(airport.Id, airport);
         }
                
         private static void GenerateFlight(byte[] args, Data data)
         {
             Flight newFlight = new Flight(args);
-            data.FlightList.Add(newFlight);
+            data.FlightDictionary.Add(newFlight.Id, newFlight);
         }
         private static void GenerateFlight(string[] args, Data data)
         {
             Flight flight = new Flight(args);
-            data.FlightList.Add(flight);
+            data.FlightDictionary.Add(flight.Id, flight);
         }
 
     }
