@@ -39,10 +39,14 @@ namespace FlightRadar.Sources_and_storages
                 Single lon;
                 Single lat;
 
+                flight.startLat = _AirportDictionary[flight.OriginId].Latitude;
+                flight.startLon = _AirportDictionary[flight.OriginId].Longitude;
+
                 (lon, lat) = GetCurrentLonLat(flight, precentage);
 
                 flight.Latitude = lat;
                 flight.Longitude = lon;
+
 
                 FlightGUI newFlightGUI = new FlightGUI
                 {
@@ -61,7 +65,7 @@ namespace FlightRadar.Sources_and_storages
 
             foreach (Flight flight in _FlightsList)
             {
-                Single percentage = FindPrecentageOfFlight(flight.TakeOffTime, flight.LandingTime);
+                Single percentage = FindPrecentageOfFlight(flight.startTime, flight.LandingTime);
                 if (percentage <= 0 || percentage >= 1)
                 {
                     continue;
@@ -129,8 +133,8 @@ namespace FlightRadar.Sources_and_storages
             }
             else
             {
-                lon = GetCurrentPosition(_AirportDictionary[flight.OriginId].Longitude, _AirportDictionary[flight.TargetId].Longitude, precentage);
-                lat = GetCurrentPosition(_AirportDictionary[flight.OriginId].Latitude, _AirportDictionary[flight.TargetId].Latitude, precentage);
+                lon = GetCurrentPosition(flight.startLon, _AirportDictionary[flight.TargetId].Longitude, precentage);
+                lat = GetCurrentPosition(flight.startLat, _AirportDictionary[flight.TargetId].Latitude, precentage);
             }
             return (lon, lat);
         }

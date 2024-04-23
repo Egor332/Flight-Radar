@@ -142,7 +142,8 @@ namespace FlightRadar
             }
 
             if (_Data.FlightDictionary.ContainsKey(e.ObjectID))
-            {                
+            {
+                
                 _Data.FlightDictionary[e.ObjectID].SetStartArgs(e.Latitude, e.Longitude, TimeOnly.FromDateTime(DateTime.Now));
                 return _Data.FlightDictionary[e.ObjectID];
             }

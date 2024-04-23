@@ -8902,8 +8902,11 @@
           "Id": 884
         }
       ],
-      "Longitude": 124.065,
-      "Latitude": -9.753635,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "13:06",
+      "Longitude": 131.28961,
+      "Latitude": -16.352242,
       "AMSL": 11416,
       "Id": 1038
     },
@@ -9060,6 +9063,9 @@
           "Id": 646
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "12:06",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 10639,
@@ -9188,8 +9194,11 @@
           "Id": 518
         }
       ],
-      "Longitude": 106.62463,
-      "Latitude": -29.392208,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "07:18",
+      "Longitude": 107.434906,
+      "Latitude": -27.926573,
       "AMSL": 9428,
       "Id": 1021
     },
@@ -9247,6 +9256,9 @@
           "Id": 26
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "07:37",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 10232,
@@ -9303,8 +9315,11 @@
           "Id": 37
         }
       ],
-      "Longitude": 111.522575,
-      "Latitude": -17.143433,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "23:31",
+      "Longitude": 93.54,
+      "Latitude": -53.06,
       "AMSL": 9938,
       "Id": 1170
     },
@@ -9413,8 +9428,11 @@
           "Id": 809
         }
       ],
-      "Longitude": 75.8939,
-      "Latitude": 33.295753,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "23:53",
+      "Longitude": 75.434875,
+      "Latitude": 34.102066,
       "AMSL": 9757,
       "Id": 1030
     },
@@ -9580,8 +9598,11 @@
           "Id": 859
         }
       ],
-      "Longitude": 82.037285,
-      "Latitude": 16.652573,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "15:07",
+      "Longitude": 80.15427,
+      "Latitude": 18.326105,
       "AMSL": 10696,
       "Id": 1065
     },
@@ -9747,8 +9768,11 @@
           "Id": 565
         }
       ],
-      "Longitude": 103.4583,
-      "Latitude": -13.029732,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "22:40",
+      "Longitude": 110.85071,
+      "Latitude": -15.662827,
       "AMSL": 10458,
       "Id": 986
     },
@@ -9926,8 +9950,11 @@
           "Id": 535
         }
       ],
-      "Longitude": 82.327286,
-      "Latitude": -0.29392242,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "10:07",
+      "Longitude": 82.97766,
+      "Latitude": -3.3545494,
       "AMSL": 11814,
       "Id": 1024
     },
@@ -10027,6 +10054,9 @@
           "Id": 25
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "11:55",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 12413,
@@ -10206,8 +10236,11 @@
           "Id": 950
         }
       ],
-      "Longitude": 150.83577,
-      "Latitude": 8.669928,
+      "startLat": -5.012481,
+      "startLon": 47.96795,
+      "startTime": "17:57",
+      "Longitude": 48.21622,
+      "Latitude": -4.9724865,
       "AMSL": 5423.5605,
       "Id": 1073
     },
@@ -10349,8 +10382,11 @@
           "Id": 863
         }
       ],
-      "Longitude": 152.61478,
-      "Latitude": -36.451736,
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "23:01",
+      "Longitude": 156.38567,
+      "Latitude": -39.476585,
       "AMSL": 6723.151,
       "Id": 1036
     },
@@ -10402,8 +10438,11 @@
           "Id": 35
         }
       ],
-      "Longitude": -81.9099,
-      "Latitude": 44.392174,
+      "startLat": -70.61774,
+      "startLon": -108.28665,
+      "startTime": "17:57",
+      "Longitude": -107.974266,
+      "Latitude": -70.6186,
       "AMSL": 2954.6252,
       "Id": 1103
     },
@@ -10506,8 +10545,11 @@
           "Id": 28
         }
       ],
-      "Longitude": -169.05829,
-      "Latitude": -8.535289,
+      "startLat": -8.535289,
+      "startLon": -169.05829,
+      "startTime": "17:57",
+      "Longitude": -168.82109,
+      "Latitude": -8.518718,
       "AMSL": 1039.7069,
       "Id": 1088
     },
@@ -10661,8 +10703,11 @@
           "Id": 910
         }
       ],
-      "Longitude": 100.232124,
-      "Latitude": 7.489861,
+      "startLat": -83.64768,
+      "startLon": 140.71909,
+      "startTime": "17:57",
+      "Longitude": 140.54239,
+      "Latitude": -83.32685,
       "AMSL": 1392.2837,
       "Id": 1000
     },
@@ -10720,6 +10765,9 @@
           "Id": 24
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "18:40",
       "Longitude": 155.66397,
       "Latitude": 13.467536,
       "AMSL": 4464.936,
@@ -10908,8 +10956,11 @@
           "Id": 767
         }
       ],
-      "Longitude": 13.895434,
-      "Latitude": -63.151962,
+      "startLat": -63.151962,
+      "startLon": 13.895434,
+      "startTime": "17:57",
+      "Longitude": 13.919452,
+      "Latitude": -63.05118,
       "AMSL": 6397.2964,
       "Id": 1008
     },
@@ -11030,8 +11081,11 @@
           "Id": 651
         }
       ],
-      "Longitude": 161.2713,
-      "Latitude": 8.427631,
+      "startLat": 2.161791,
+      "startLon": 32.557625,
+      "startTime": "17:57",
+      "Longitude": 34.060238,
+      "Latitude": 2.3023741,
       "AMSL": 2058.9192,
       "Id": 1013
     },
@@ -11131,8 +11185,11 @@
           "Id": 496
         }
       ],
-      "Longitude": 35.00642,
-      "Latitude": -27.659632,
+      "startLat": -27.659632,
+      "startLon": 35.00642,
+      "startTime": "17:57",
+      "Longitude": 35.010914,
+      "Latitude": -27.60405,
       "AMSL": 92.23284,
       "Id": 984
     },
@@ -11184,8 +11241,11 @@
           "Id": 2089
         }
       ],
-      "Longitude": -104.84776,
-      "Latitude": 64.89775,
+      "startLat": 20.7811,
+      "startLon": -149.48839,
+      "startTime": "17:57",
+      "Longitude": -149.29478,
+      "Latitude": 20.813435,
       "AMSL": 2120.0967,
       "Id": 1143
     },
@@ -11318,8 +11378,11 @@
           "Id": 738
         }
       ],
-      "Longitude": -56.339127,
-      "Latitude": 42.637367,
+      "startLat": 42.637367,
+      "startLon": -56.339127,
+      "startTime": "17:57",
+      "Longitude": -56.273174,
+      "Latitude": 42.64414,
       "AMSL": 9883.734,
       "Id": 980
     },
@@ -11458,6 +11521,9 @@
           "Id": 846
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "19:25",
       "Longitude": -4.987317,
       "Latitude": 21.58896,
       "AMSL": 9201.4375,
@@ -11613,8 +11679,11 @@
           "Id": 738
         }
       ],
-      "Longitude": -118.53,
-      "Latitude": 66.04,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "17:32",
+      "Longitude": -114.80391,
+      "Latitude": 65.44687,
       "AMSL": 12392,
       "Id": 985
     },
@@ -11669,8 +11738,11 @@
           "Id": 28
         }
       ],
-      "Longitude": 149.51094,
-      "Latitude": -34.4749,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "22:48",
+      "Longitude": 151.54788,
+      "Latitude": -35.988743,
       "AMSL": 10679,
       "Id": 1128
     },
@@ -11797,8 +11869,11 @@
           "Id": 38
         }
       ],
-      "Longitude": -59.930943,
-      "Latitude": 45.167675,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "15:56",
+      "Longitude": -34.090805,
+      "Latitude": 35.963707,
       "AMSL": 11684,
       "Id": 1178
     },
@@ -11850,6 +11925,9 @@
           "Id": 26
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "00:36",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 10287,
@@ -11978,8 +12056,11 @@
           "Id": 611
         }
       ],
-      "Longitude": 151.59991,
-      "Latitude": -45.436287,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "15:29",
+      "Longitude": 149.39012,
+      "Latitude": -46.939423,
       "AMSL": 12989,
       "Id": 1061
     },
@@ -12055,6 +12136,9 @@
           "Id": 38
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "04:27",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 11061,
@@ -12135,8 +12219,11 @@
           "Id": 30
         }
       ],
-      "Longitude": 167.5227,
-      "Latitude": -10.606565,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "12:00",
+      "Longitude": 168.60661,
+      "Latitude": -7.07605,
       "AMSL": 9057,
       "Id": 1167
     },
@@ -12317,8 +12404,11 @@
           "Id": 563
         }
       ],
-      "Longitude": 114.621445,
-      "Latitude": -12.224946,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "11:57",
+      "Longitude": 114.91796,
+      "Latitude": -11.779263,
       "AMSL": 12578,
       "Id": 1055
     },
@@ -12373,6 +12463,9 @@
           "Id": 26
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "22:35",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 9604,
@@ -12486,8 +12579,11 @@
           "Id": 610
         }
       ],
-      "Longitude": 77.859245,
-      "Latitude": 17.23811,
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "11:41",
+      "Longitude": 81.854355,
+      "Latitude": 13.343792,
       "AMSL": 9146,
       "Id": 983
     },
@@ -12563,6 +12659,9 @@
           "Id": 35
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "00:26",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 11508,
@@ -12691,6 +12790,9 @@
           "Id": 716
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "22:26",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 12918,
@@ -12762,8 +12864,11 @@
           "Id": 34
         }
       ],
-      "Longitude": 86.55623,
-      "Latitude": 11.254049,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "17:09",
+      "Longitude": 79.41935,
+      "Latitude": 13.160568,
       "AMSL": 10895,
       "Id": 1124
     },
@@ -12902,6 +13007,9 @@
           "Id": 33
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "21:22",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 9807,
@@ -12961,8 +13069,11 @@
           "Id": 38
         }
       ],
-      "Longitude": 158.17923,
-      "Latitude": 18.940725,
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "13:50",
+      "Longitude": 155.10158,
+      "Latitude": 19.54325,
       "AMSL": 12427,
       "Id": 1108
     },
@@ -13077,8 +13188,11 @@
           "Id": 587
         }
       ],
-      "Longitude": 98.94448,
-      "Latitude": 7.6429935,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "16:32",
+      "Longitude": 80.13081,
+      "Latitude": 12.694906,
       "AMSL": 12055,
       "Id": 1012
     },
@@ -13253,6 +13367,9 @@
           "Id": 486
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "19:34",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 9750,
@@ -13324,6 +13441,9 @@
           "Id": 24
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "08:25",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 11149,
@@ -13380,6 +13500,9 @@
           "Id": 34
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "19:00",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 9692,
@@ -13451,6 +13574,9 @@
           "Id": 25
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "01:59",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 9859,
@@ -13564,6 +13690,9 @@
           "Id": 35
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "20:59",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 10322,
@@ -13719,6 +13848,9 @@
           "Id": 671
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "13:05",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 9953,
@@ -13874,6 +14006,9 @@
           "Id": 861
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "23:20",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 10069,
@@ -13993,8 +14128,11 @@
           "Id": 909
         }
       ],
-      "Longitude": 28.467667,
-      "Latitude": 26.771606,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "14:54",
+      "Longitude": 13.117714,
+      "Latitude": 30.872135,
       "AMSL": 10323,
       "Id": 1017
     },
@@ -14049,8 +14187,11 @@
           "Id": 38
         }
       ],
-      "Longitude": 95.87553,
-      "Latitude": -48.395264,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "03:27",
+      "Longitude": 95.15146,
+      "Latitude": -49.84143,
       "AMSL": 11975,
       "Id": 1154
     },
@@ -14162,6 +14303,9 @@
           "Id": 597
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "02:07",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 11456,
@@ -14311,8 +14455,11 @@
           "Id": 955
         }
       ],
-      "Longitude": 77.81683,
-      "Latitude": -9.664394,
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "13:00",
+      "Longitude": 83.016846,
+      "Latitude": -18.591164,
       "AMSL": 10607,
       "Id": 1045
     },
@@ -14388,6 +14535,9 @@
           "Id": 38
         }
       ],
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "21:22",
       "Longitude": 175.55,
       "Latitude": 15.54,
       "AMSL": 11012,
@@ -14480,8 +14630,11 @@
           "Id": 24
         }
       ],
-      "Longitude": 157.86745,
-      "Latitude": 10.624598,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "04:06",
+      "Longitude": 159.48332,
+      "Latitude": 11.073778,
       "AMSL": 12297,
       "Id": 1105
     },
@@ -14590,6 +14743,9 @@
           "Id": 578
         }
       ],
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "05:34",
       "Longitude": 112.05,
       "Latitude": -16.09,
       "AMSL": 11457,
@@ -14655,8 +14811,11 @@
           "Id": 38
         }
       ],
-      "Longitude": 100.29764,
-      "Latitude": -34.601334,
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "10:20",
+      "Longitude": 99.11036,
+      "Latitude": -31.351654,
       "AMSL": 11670,
       "Id": 1150
     },
@@ -14735,8 +14894,11 @@
           "Id": 35
         }
       ],
-      "Longitude": -35.777115,
-      "Latitude": 19.5654,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "10:27",
+      "Longitude": -28.311066,
+      "Latitude": 15.372414,
       "AMSL": 11457,
       "Id": 1116
     },
@@ -14794,8 +14956,11 @@
           "Id": 30
         }
       ],
-      "Longitude": 144.3777,
-      "Latitude": -50.348953,
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "09:16",
+      "Longitude": 146.74152,
+      "Latitude": -48.741043,
       "AMSL": 10451,
       "Id": 1111
     },
@@ -14931,6 +15096,9 @@
           "Id": 553
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "00:51",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 12136,
@@ -14993,6 +15161,9 @@
           "Id": 31
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "00:39",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 11674,
@@ -15100,6 +15271,9 @@
           "Id": 608
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "18:12",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 11533,
@@ -15156,6 +15330,9 @@
           "Id": 37
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "23:48",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 11707,
@@ -15317,8 +15494,11 @@
           "Id": 947
         }
       ],
-      "Longitude": 116.01027,
-      "Latitude": -54.00556,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "14:30",
+      "Longitude": 114.38094,
+      "Latitude": -66.04892,
       "AMSL": 9091,
       "Id": 996
     },
@@ -15394,6 +15574,9 @@
           "Id": 25
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "20:10",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 11901,
@@ -15519,6 +15702,9 @@
           "Id": 576
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "21:37",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 11202,
@@ -15668,8 +15854,11 @@
           "Id": 892
         }
       ],
-      "Longitude": 111.31728,
-      "Latitude": -67.17397,
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "19:59",
+      "Longitude": 113.3502,
+      "Latitude": -70.663826,
       "AMSL": 9780,
       "Id": 1028
     },
@@ -15847,6 +16036,9 @@
           "Id": 890
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "00:47",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 11303,
@@ -15966,8 +16158,11 @@
           "Id": 958
         }
       ],
-      "Longitude": -11.884926,
-      "Latitude": 47.7267,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "13:26",
+      "Longitude": 5.0771255,
+      "Latitude": 44.813942,
       "AMSL": 9242,
       "Id": 1058
     },
@@ -16043,6 +16238,9 @@
           "Id": 26
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "19:19",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 9035,
@@ -16150,6 +16348,9 @@
           "Id": 25
         }
       ],
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "20:16",
       "Longitude": 112.05,
       "Latitude": -16.09,
       "AMSL": 9121,
@@ -16296,6 +16497,9 @@
           "Id": 489
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "11:56",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 12992,
@@ -16373,6 +16577,9 @@
           "Id": 31
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "18:52",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 11625,
@@ -16456,8 +16663,11 @@
           "Id": 38
         }
       ],
-      "Longitude": -82.830185,
-      "Latitude": 56.50329,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "13:39",
+      "Longitude": -76.81901,
+      "Latitude": 54.897488,
       "AMSL": 10356,
       "Id": 1173
     },
@@ -16596,8 +16806,11 @@
           "Id": 769
         }
       ],
-      "Longitude": 13.111919,
-      "Latitude": 45.084896,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "13:45",
+      "Longitude": 2.4409866,
+      "Latitude": 46.783524,
       "AMSL": 11778,
       "Id": 1032
     },
@@ -16658,8 +16871,11 @@
           "Id": 36
         }
       ],
-      "Longitude": 134.27481,
-      "Latitude": 22.627861,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "22:13",
+      "Longitude": 142.49536,
+      "Latitude": 21.21621,
       "AMSL": 9251,
       "Id": 1092
     },
@@ -16714,6 +16930,9 @@
           "Id": 31
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "07:12",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 9798,
@@ -16857,8 +17076,11 @@
           "Id": 803
         }
       ],
-      "Longitude": 75.66922,
-      "Latitude": 31.038357,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "12:35",
+      "Longitude": 93.54,
+      "Latitude": -53.06,
       "AMSL": 11989,
       "Id": 1018
     },
@@ -16997,6 +17219,9 @@
           "Id": 842
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "20:52",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 11071,
@@ -17059,6 +17284,9 @@
           "Id": 24
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "10:23",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 11196,
@@ -17133,8 +17361,11 @@
           "Id": 28
         }
       ],
-      "Longitude": 52.966606,
-      "Latitude": 45.458107,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "10:08",
+      "Longitude": 46.885933,
+      "Latitude": 49.287834,
       "AMSL": 12113,
       "Id": 1106
     },
@@ -17189,8 +17420,11 @@
           "Id": 31
         }
       ],
-      "Longitude": 117.34729,
-      "Latitude": -18.941765,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "15:30",
+      "Longitude": 119.13421,
+      "Latitude": -19.903748,
       "AMSL": 10346,
       "Id": 1087
     },
@@ -17242,8 +17476,11 @@
           "Id": 28
         }
       ],
-      "Longitude": 43.400593,
-      "Latitude": 48.818195,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "03:33",
+      "Longitude": 93.54,
+      "Latitude": -53.06,
       "AMSL": 12596,
       "Id": 1152
     },
@@ -17370,8 +17607,11 @@
           "Id": 32
         }
       ],
-      "Longitude": 105.00957,
-      "Latitude": -47.49828,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "02:23",
+      "Longitude": 106.26675,
+      "Latitude": -50.93928,
       "AMSL": 12588,
       "Id": 1135
     },
@@ -17531,8 +17771,11 @@
           "Id": 528
         }
       ],
-      "Longitude": 107.001274,
-      "Latitude": -10.28624,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "12:44",
+      "Longitude": 106.32018,
+      "Latitude": -9.503296,
       "AMSL": 10707,
       "Id": 1044
     },
@@ -17593,8 +17836,11 @@
           "Id": 33
         }
       ],
-      "Longitude": 120.36573,
-      "Latitude": -21.811665,
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "01:14",
+      "Longitude": 120.62384,
+      "Latitude": -19.903809,
       "AMSL": 10333,
       "Id": 1172
     },
@@ -17658,6 +17904,9 @@
           "Id": 24
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "09:31",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 10061,
@@ -17762,6 +18011,9 @@
           "Id": 605
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "19:51",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 10859,
@@ -17836,6 +18088,9 @@
           "Id": 2089
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "18:34",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 9883,
@@ -17970,8 +18225,11 @@
           "Id": 488
         }
       ],
-      "Longitude": 112.288666,
-      "Latitude": 1.0022964,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "11:24",
+      "Longitude": 107.483406,
+      "Latitude": 5.391182,
       "AMSL": 10990,
       "Id": 1043
     },
@@ -18137,8 +18395,11 @@
           "Id": 729
         }
       ],
-      "Longitude": -72.91044,
-      "Latitude": 62.231483,
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "03:07",
+      "Longitude": -77.9121,
+      "Latitude": 62.64904,
       "AMSL": 12962,
       "Id": 982
     },
@@ -18253,8 +18514,11 @@
           "Id": 582
         }
       ],
-      "Longitude": 67.41402,
-      "Latitude": 36.35885,
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "10:59",
+      "Longitude": 69.948044,
+      "Latitude": 34.762867,
       "AMSL": 9662,
       "Id": 1062
     },
@@ -18333,8 +18597,11 @@
           "Id": 31
         }
       ],
-      "Longitude": 98.78769,
-      "Latitude": -43.567863,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "03:22",
+      "Longitude": 97.6898,
+      "Latitude": -45.55375,
       "AMSL": 12842,
       "Id": 1129
     },
@@ -18482,6 +18749,9 @@
           "Id": 610
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "00:30",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 12834,
@@ -18577,8 +18847,11 @@
           "Id": 666
         }
       ],
-      "Longitude": 123.75049,
-      "Latitude": -27.789433,
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "06:01",
+      "Longitude": 120.90621,
+      "Latitude": -30.168621,
       "AMSL": 9580,
       "Id": 1026
     },
@@ -18699,6 +18972,9 @@
           "Id": 25
         }
       ],
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "22:21",
       "Longitude": 112.05,
       "Latitude": -16.09,
       "AMSL": 12606,
@@ -18872,6 +19148,9 @@
           "Id": 765
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "20:26",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 12596,
@@ -19027,8 +19306,11 @@
           "Id": 915
         }
       ],
-      "Longitude": 123.46,
-      "Latitude": 1.06,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "17:42",
+      "Longitude": 114.4232,
+      "Latitude": 3.486593,
       "AMSL": 12860,
       "Id": 998
     },
@@ -19203,8 +19485,11 @@
           "Id": 828
         }
       ],
-      "Longitude": 160.52055,
-      "Latitude": -33.41405,
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "12:32",
+      "Longitude": 158.57733,
+      "Latitude": -39.74353,
       "AMSL": 10752,
       "Id": 1069
     },
@@ -19265,6 +19550,9 @@
           "Id": 2089
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "02:59",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 12535,
@@ -19336,8 +19624,11 @@
           "Id": 26
         }
       ],
-      "Longitude": 102.88616,
-      "Latitude": 0.1763773,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "13:41",
+      "Longitude": 105.283005,
+      "Latitude": -1.6049404,
       "AMSL": 10281,
       "Id": 1095
     },
@@ -19470,6 +19761,9 @@
           "Id": 921
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "07:40",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 11314,
@@ -19604,6 +19898,9 @@
           "Id": 588
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "00:47",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 11185,
@@ -19744,8 +20041,11 @@
           "Id": 563
         }
       ],
-      "Longitude": 128.46248,
-      "Latitude": -61.174736,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "04:05",
+      "Longitude": 127.0672,
+      "Latitude": -62.123817,
       "AMSL": 11986,
       "Id": 1051
     },
@@ -19869,8 +20169,11 @@
           "Id": 756
         }
       ],
-      "Longitude": -82.03415,
-      "Latitude": 56.24001,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "16:20",
+      "Longitude": -59.57007,
+      "Latitude": 50.20787,
       "AMSL": 12510,
       "Id": 988
     },
@@ -20045,6 +20348,9 @@
           "Id": 619
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "00:46",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 11676,
@@ -20128,6 +20434,9 @@
           "Id": 25
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "11:37",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 9762,
@@ -20217,6 +20526,9 @@
           "Id": 28
         }
       ],
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "19:53",
       "Longitude": 175.55,
       "Latitude": 15.54,
       "AMSL": 10180,
@@ -20345,8 +20657,11 @@
           "Id": 589
         }
       ],
-      "Longitude": 149.70168,
-      "Latitude": -36.359585,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "13:07",
+      "Longitude": 148.4498,
+      "Latitude": -35.68564,
       "AMSL": 11745,
       "Id": 979
     },
@@ -20404,6 +20719,9 @@
           "Id": 24
         }
       ],
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "03:16",
       "Longitude": 175.55,
       "Latitude": 15.54,
       "AMSL": 11132,
@@ -20466,6 +20784,9 @@
           "Id": 30
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "11:42",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 9390,
@@ -20528,8 +20849,11 @@
           "Id": 30
         }
       ],
-      "Longitude": 71.03556,
-      "Latitude": -7.3332634,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "13:47",
+      "Longitude": 67.10434,
+      "Latitude": 0.6545868,
       "AMSL": 12672,
       "Id": 1166
     },
@@ -20656,8 +20980,11 @@
           "Id": 813
         }
       ],
-      "Longitude": 113.31051,
-      "Latitude": -58.730713,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "07:36",
+      "Longitude": 113.39097,
+      "Latitude": -61.452557,
       "AMSL": 10800,
       "Id": 991
     },
@@ -20856,8 +21183,11 @@
           "Id": 779
         }
       ],
-      "Longitude": 106.33253,
-      "Latitude": -27.509514,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "11:39",
+      "Longitude": 105.70797,
+      "Latitude": -28.756931,
       "AMSL": 12703,
       "Id": 1064
     },
@@ -20975,8 +21305,11 @@
           "Id": 525
         }
       ],
-      "Longitude": -21.713997,
-      "Latitude": 8.80761,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "11:50",
+      "Longitude": -10.786392,
+      "Latitude": 2.3478012,
       "AMSL": 11345,
       "Id": 995
     },
@@ -21130,6 +21463,9 @@
           "Id": 870
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "20:54",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 9970,
@@ -21180,6 +21516,9 @@
           "Id": 26
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "03:40",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 11984,
@@ -21314,8 +21653,11 @@
           "Id": 926
         }
       ],
-      "Longitude": 107.81538,
-      "Latitude": -11.222094,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "08:51",
+      "Longitude": 109.20926,
+      "Latitude": -12.824429,
       "AMSL": 11674,
       "Id": 992
     },
@@ -21406,8 +21748,11 @@
           "Id": 26
         }
       ],
-      "Longitude": 118.76437,
-      "Latitude": -5.9978395,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "09:43",
+      "Longitude": 118.38147,
+      "Latitude": -6.573381,
       "AMSL": 11151,
       "Id": 1136
     },
@@ -21525,6 +21870,9 @@
           "Id": 2089
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "09:15",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 9750,
@@ -21635,6 +21983,9 @@
           "Id": 2089
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "02:25",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 11558,
@@ -21685,6 +22036,9 @@
           "Id": 28
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "02:43",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 11684,
@@ -21753,6 +22107,9 @@
           "Id": 2089
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "06:12",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 12735,
@@ -21869,8 +22226,11 @@
           "Id": 563
         }
       ],
-      "Longitude": -71.15591,
-      "Latitude": 53.31895,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "02:03",
+      "Longitude": -79.0705,
+      "Latitude": 55.444206,
       "AMSL": 12317,
       "Id": 999
     },
@@ -22003,8 +22363,11 @@
           "Id": 34
         }
       ],
-      "Longitude": 146.56529,
-      "Latitude": -25.109806,
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "12:03",
+      "Longitude": 143.1599,
+      "Latitude": -29.885727,
       "AMSL": 9670,
       "Id": 1162
     },
@@ -22089,6 +22452,9 @@
           "Id": 28
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "02:21",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 9136,
@@ -22151,8 +22517,11 @@
           "Id": 24
         }
       ],
-      "Longitude": 104.02327,
-      "Latitude": -6.8628845,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "07:54",
+      "Longitude": 105.02719,
+      "Latitude": -8.016935,
       "AMSL": 10118,
       "Id": 1085
     },
@@ -22228,6 +22597,9 @@
           "Id": 24
         }
       ],
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "20:32",
       "Longitude": 112.05,
       "Latitude": -16.09,
       "AMSL": 10448,
@@ -22287,8 +22659,11 @@
           "Id": 35
         }
       ],
-      "Longitude": 147.08376,
-      "Latitude": -24.382679,
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "10:27",
+      "Longitude": 144.5155,
+      "Latitude": -27.984543,
       "AMSL": 10693,
       "Id": 1110
     },
@@ -22412,6 +22787,9 @@
           "Id": 917
         }
       ],
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "21:41",
       "Longitude": 112.05,
       "Latitude": -16.09,
       "AMSL": 10718,
@@ -22504,8 +22882,11 @@
           "Id": 37
         }
       ],
-      "Longitude": 146.0851,
-      "Latitude": 7.349334,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "13:20",
+      "Longitude": 149.59393,
+      "Latitude": 8.324718,
       "AMSL": 9117,
       "Id": 1082
     },
@@ -22566,6 +22947,9 @@
           "Id": 32
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "20:41",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 9354,
@@ -22724,6 +23108,9 @@
           "Id": 916
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "00:10",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 11485,
@@ -22861,8 +23248,11 @@
           "Id": 767
         }
       ],
-      "Longitude": 139.62569,
-      "Latitude": -23.965992,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "02:05",
+      "Longitude": 142.26898,
+      "Latitude": -26.380253,
       "AMSL": 12395,
       "Id": 1002
     },
@@ -22983,6 +23373,9 @@
           "Id": 889
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "23:38",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 10765,
@@ -23048,6 +23441,9 @@
           "Id": 2089
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "23:33",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 11239,
@@ -23119,6 +23515,9 @@
           "Id": 2089
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "07:49",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 12426,
@@ -23187,6 +23586,9 @@
           "Id": 30
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "20:58",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 11050,
@@ -23327,8 +23729,11 @@
           "Id": 663
         }
       ],
-      "Longitude": 119.639015,
-      "Latitude": -31.22861,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "10:04",
+      "Longitude": 121.86966,
+      "Latitude": -29.362713,
       "AMSL": 10660,
       "Id": 997
     },
@@ -23458,6 +23863,9 @@
           "Id": 32
         }
       ],
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "01:20",
       "Longitude": 112.05,
       "Latitude": -16.09,
       "AMSL": 12836,
@@ -23613,6 +24021,9 @@
           "Id": 802
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "22:34",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 10836,
@@ -23711,6 +24122,9 @@
           "Id": 36
         }
       ],
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "04:44",
       "Longitude": 175.55,
       "Latitude": 15.54,
       "AMSL": 10157,
@@ -23797,6 +24211,9 @@
           "Id": 27
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "08:18",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 10145,
@@ -23952,8 +24369,11 @@
           "Id": 585
         }
       ],
-      "Longitude": 74.81227,
-      "Latitude": 35.154297,
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "20:19",
+      "Longitude": 113.68,
+      "Latitude": -71.23,
       "AMSL": 12819,
       "Id": 1009
     },
@@ -24077,8 +24497,11 @@
           "Id": 589
         }
       ],
-      "Longitude": 175.55,
-      "Latitude": 15.54,
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "17:25",
+      "Longitude": 166.021,
+      "Latitude": 15.004083,
       "AMSL": 12989,
       "Id": 1005
     },
@@ -24133,8 +24556,11 @@
           "Id": 37
         }
       ],
-      "Longitude": 86.032684,
-      "Latitude": 11.110115,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "15:22",
+      "Longitude": 74.25881,
+      "Latitude": 14.271675,
       "AMSL": 12651,
       "Id": 1144
     },
@@ -24273,8 +24699,11 @@
           "Id": 885
         }
       ],
-      "Longitude": 75.41247,
-      "Latitude": 34.384876,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "16:58",
+      "Longitude": 76.47204,
+      "Latitude": 32.92513,
       "AMSL": 11847,
       "Id": 1025
     },
@@ -24431,8 +24860,11 @@
           "Id": 727
         }
       ],
-      "Longitude": 75.35767,
-      "Latitude": 34.23769,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "16:49",
+      "Longitude": 76.05107,
+      "Latitude": 33.01966,
       "AMSL": 10945,
       "Id": 1041
     },
@@ -24493,6 +24925,9 @@
           "Id": 2089
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "13:27",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 12338,
@@ -24621,6 +25056,9 @@
           "Id": 758
         }
       ],
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "21:33",
       "Longitude": 175.55,
       "Latitude": 15.54,
       "AMSL": 9930,
@@ -24680,6 +25118,9 @@
           "Id": 35
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "18:38",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 9039,
@@ -24754,6 +25195,9 @@
           "Id": 2089
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "04:06",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 9920,
@@ -24921,6 +25365,9 @@
           "Id": 910
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "23:06",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 12721,
@@ -25070,6 +25517,9 @@
           "Id": 686
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "18:01",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 11742,
@@ -25129,6 +25579,9 @@
           "Id": 34
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "20:10",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 12611,
@@ -25272,6 +25725,9 @@
           "Id": 831
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "11:46",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 11251,
@@ -25415,6 +25871,9 @@
           "Id": 886
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "21:38",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 9838,
@@ -25561,6 +26020,9 @@
           "Id": 719
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "18:06",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 11516,
@@ -25620,6 +26082,9 @@
           "Id": 26
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "20:37",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 10499,
@@ -25751,8 +26216,11 @@
           "Id": 27
         }
       ],
-      "Longitude": 133.63466,
-      "Latitude": -27.709991,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "09:55",
+      "Longitude": 135.44221,
+      "Latitude": -28.683075,
       "AMSL": 11277,
       "Id": 1123
     },
@@ -25804,8 +26272,11 @@
           "Id": 30
         }
       ],
-      "Longitude": 95.3421,
-      "Latitude": -49.460663,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "16:19",
+      "Longitude": 96.43334,
+      "Latitude": -47.28113,
       "AMSL": 10076,
       "Id": 1165
     },
@@ -25929,6 +26400,9 @@
           "Id": 693
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "08:22",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 10424,
@@ -26078,6 +26552,9 @@
           "Id": 906
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "09:18",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 9846,
@@ -26221,8 +26698,11 @@
           "Id": 585
         }
       ],
-      "Longitude": 116.23512,
-      "Latitude": -18.34304,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "00:54",
+      "Longitude": 114.64748,
+      "Latitude": -17.488338,
       "AMSL": 10770,
       "Id": 1031
     },
@@ -26379,6 +26859,9 @@
           "Id": 617
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "09:01",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 12013,
@@ -26459,8 +26942,11 @@
           "Id": 31
         }
       ],
-      "Longitude": 28.53743,
-      "Latitude": -20.898315,
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "10:12",
+      "Longitude": 21.124603,
+      "Latitude": -16.51625,
       "AMSL": 10545,
       "Id": 1119
     },
@@ -26608,8 +27094,11 @@
           "Id": 516
         }
       ],
-      "Longitude": 51.386013,
-      "Latitude": 5.517832,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "13:32",
+      "Longitude": 41.4841,
+      "Latitude": 9.044783,
       "AMSL": 10138,
       "Id": 1049
     },
@@ -26670,6 +27159,9 @@
           "Id": 2089
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "00:02",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 12834,
@@ -26753,6 +27245,9 @@
           "Id": 32
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "05:51",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 12752,
@@ -26866,6 +27361,9 @@
           "Id": 779
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "07:17",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 9277,
@@ -26940,6 +27438,9 @@
           "Id": 35
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "18:52",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 11401,
@@ -27089,6 +27590,9 @@
           "Id": 538
         }
       ],
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "14:17",
       "Longitude": 112.05,
       "Latitude": -16.09,
       "AMSL": 11478,
@@ -27160,8 +27664,11 @@
           "Id": 26
         }
       ],
-      "Longitude": 144.8494,
-      "Latitude": -31.010468,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "06:16",
+      "Longitude": 147.99762,
+      "Latitude": -33.350204,
       "AMSL": 9229,
       "Id": 1093
     },
@@ -27219,6 +27726,9 @@
           "Id": 37
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "20:53",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 10015,
@@ -27341,8 +27851,11 @@
           "Id": 551
         }
       ],
-      "Longitude": 117.94036,
-      "Latitude": -8.924059,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "13:47",
+      "Longitude": 116.97615,
+      "Latitude": -10.66814,
       "AMSL": 12926,
       "Id": 1020
     },
@@ -27466,6 +27979,9 @@
           "Id": 2089
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "13:33",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 12401,
@@ -27510,6 +28026,9 @@
           "Id": 26
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "18:15",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 9337,
@@ -27602,6 +28121,9 @@
           "Id": 797
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "01:09",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 10660,
@@ -27676,6 +28198,9 @@
           "Id": 26
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "09:48",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 11209,
@@ -27804,6 +28329,9 @@
           "Id": 896
         }
       ],
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "19:58",
       "Longitude": 88.78,
       "Latitude": 10.66,
       "AMSL": 12697,
@@ -27956,6 +28484,9 @@
           "Id": 964
         }
       ],
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "12:06",
       "Longitude": 93.54,
       "Latitude": -53.06,
       "AMSL": 9899,
@@ -28078,8 +28609,11 @@
           "Id": 708
         }
       ],
-      "Longitude": 158.21,
-      "Latitude": -40.94,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "17:24",
+      "Longitude": 148.62366,
+      "Latitude": -42.736603,
       "AMSL": 10962,
       "Id": 1007
     },
@@ -28233,8 +28767,11 @@
           "Id": 926
         }
       ],
-      "Longitude": 166.07349,
-      "Latitude": -15.327015,
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "16:38",
+      "Longitude": 172.95744,
+      "Latitude": 7.0954933,
       "AMSL": 9230,
       "Id": 1076
     },
@@ -28394,6 +28931,9 @@
           "Id": 619
         }
       ],
+      "startLat": -71.23,
+      "startLon": 113.68,
+      "startTime": "04:55",
       "Longitude": 113.68,
       "Latitude": -71.23,
       "AMSL": 10869,
@@ -28456,8 +28996,11 @@
           "Id": 31
         }
       ],
-      "Longitude": 94.78526,
-      "Latitude": 29.40908,
+      "startLat": 15.54,
+      "startLon": 175.55,
+      "startTime": "15:11",
+      "Longitude": 71.5343,
+      "Latitude": 33.401783,
       "AMSL": 12585,
       "Id": 1114
     },
@@ -28530,8 +29073,11 @@
           "Id": 2089
         }
       ],
-      "Longitude": 82.31137,
-      "Latitude": -46.75392,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "16:46",
+      "Longitude": 70.210434,
+      "Latitude": -39.95795,
       "AMSL": 9203,
       "Id": 1118
     },
@@ -28586,6 +29132,9 @@
           "Id": 26
         }
       ],
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "12:43",
       "Longitude": -118.53,
       "Latitude": 66.04,
       "AMSL": 11243,
@@ -28723,6 +29272,9 @@
           "Id": 715
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "19:04",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 12203,
@@ -28773,8 +29325,11 @@
           "Id": 26
         }
       ],
-      "Longitude": 98.5059,
-      "Latitude": 7.9677105,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "12:27",
+      "Longitude": 99.74198,
+      "Latitude": 7.62554,
       "AMSL": 10470,
       "Id": 1084
     },
@@ -28913,8 +29468,11 @@
           "Id": 906
         }
       ],
-      "Longitude": -79.053635,
-      "Latitude": 43.869797,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "16:38",
+      "Longitude": -44.494644,
+      "Latitude": 24.461224,
       "AMSL": 10610,
       "Id": 1034
     },
@@ -29038,6 +29596,9 @@
           "Id": 925
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "05:50",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 11063,
@@ -29103,8 +29664,11 @@
           "Id": 27
         }
       ],
-      "Longitude": 35.174103,
-      "Latitude": -24.821556,
+      "startLat": 66.04,
+      "startLon": -118.53,
+      "startTime": "10:17",
+      "Longitude": 48.71408,
+      "Latitude": -32.82566,
       "AMSL": 9873,
       "Id": 1176
     },
@@ -29231,6 +29795,9 @@
           "Id": 927
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "03:16",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 9750,
@@ -29362,6 +29929,9 @@
           "Id": 805
         }
       ],
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "01:32",
       "Longitude": 123.46,
       "Latitude": 1.06,
       "AMSL": 10425,
@@ -29451,6 +30021,9 @@
           "Id": 521
         }
       ],
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "02:53",
       "Longitude": 74.77,
       "Latitude": 35.27,
       "AMSL": 11600,
@@ -29537,8 +30110,11 @@
           "Id": 34
         }
       ],
-      "Longitude": 41.5,
-      "Latitude": 52.68,
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "17:31",
+      "Longitude": 47.704678,
+      "Latitude": 40.072723,
       "AMSL": 11697,
       "Id": 1138
     },
@@ -29593,8 +30169,11 @@
           "Id": 27
         }
       ],
-      "Longitude": 92.09385,
-      "Latitude": -33.700993,
+      "startLat": 10.66,
+      "startLon": 88.78,
+      "startTime": "04:39",
+      "Longitude": 92.25622,
+      "Latitude": -35.874573,
       "AMSL": 12912,
       "Id": 1151
     },
@@ -29742,8 +30321,11 @@
           "Id": 541
         }
       ],
-      "Longitude": 110.65994,
-      "Latitude": -49.8515,
+      "startLat": -53.06,
+      "startLon": 93.54,
+      "startTime": "15:17",
+      "Longitude": 115.82771,
+      "Latitude": -48.88299,
       "AMSL": 11324,
       "Id": 1072
     },
@@ -29792,6 +30374,9 @@
           "Id": 26
         }
       ],
+      "startLat": 52.68,
+      "startLon": 41.5,
+      "startTime": "13:05",
       "Longitude": 41.5,
       "Latitude": 52.68,
       "AMSL": 11796,
@@ -29953,8 +30538,11 @@
           "Id": 850
         }
       ],
-      "Longitude": 95.780655,
-      "Latitude": 6.3239975,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "08:10",
+      "Longitude": 97.20461,
+      "Latitude": 4.3622265,
       "AMSL": 12072,
       "Id": 1052
     },
@@ -30039,8 +30627,11 @@
           "Id": 25
         }
       ],
-      "Longitude": 137.94429,
-      "Latitude": -22.430286,
+      "startLat": 35.27,
+      "startLon": 74.77,
+      "startTime": "23:24",
+      "Longitude": 140.13402,
+      "Latitude": -24.430283,
       "AMSL": 9609,
       "Id": 1090
     },
@@ -30095,6 +30686,9 @@
           "Id": 31
         }
       ],
+      "startLat": -40.94,
+      "startLon": 158.21,
+      "startTime": "18:44",
       "Longitude": 158.21,
       "Latitude": -40.94,
       "AMSL": 11181,
@@ -30184,8 +30778,11 @@
           "Id": 35
         }
       ],
-      "Longitude": 102.29103,
-      "Latitude": -35.581573,
+      "startLat": -16.09,
+      "startLon": 112.05,
+      "startTime": "08:45",
+      "Longitude": 101.58474,
+      "Latitude": -36.992256,
       "AMSL": 9399,
       "Id": 1122
     },
@@ -30324,8 +30921,11 @@
           "Id": 838
         }
       ],
-      "Longitude": 123.46,
-      "Latitude": 1.06,
+      "startLat": 1.06,
+      "startLon": 123.46,
+      "startTime": "17:50",
+      "Longitude": 122.59656,
+      "Latitude": -5.3222084,
       "AMSL": 10350,
       "Id": 1579
     }

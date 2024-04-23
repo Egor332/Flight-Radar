@@ -22,9 +22,9 @@ namespace FlightRadar
         public BaseOfAll[] CrewRef;
         public BaseOfAll[] LoadRef;
 
-        private Single startLat = 0;
-        private Single startLon = 0;
-        private TimeOnly startTime;
+        public Single startLat = 0;
+        public Single startLon = 0;
+        public string startTime;
 
         public Flight(UInt64 id, UInt64 originId, UInt64 targetId, string takeOfTime, string landingTime, Single longtitude, Single latitude, Single asml, Plane plane, Crew[] crew, BaseOfAll[] load) : base(id)
         {
@@ -39,7 +39,7 @@ namespace FlightRadar
             CrewRef = crew;
             LoadRef = load;
 
-            TimeOnly.TryParse(takeOfTime, out startTime);
+            startTime = TakeOffTime;
         }
 
         public Flight(string[] args) : base(args[1])
@@ -63,7 +63,7 @@ namespace FlightRadar
 
             StringArrayToArrayOfCrew(args[10], out CrewRef);
             StringArrayToArrayOfLoad(args[11], out LoadRef);
-            TimeOnly.TryParse(TakeOffTime, out startTime);
+            startTime = TakeOffTime;
         }
 
         public Flight(byte[] args) : base(args)
@@ -89,7 +89,7 @@ namespace FlightRadar
             LoadRef = new BaseOfAll[loadCount];
             BytesToArrayOfLoad(args, loadCount, 59 + 8*crewCount, LoadRef);
 
-            TimeOnly.TryParse(TakeOffTime, out startTime);
+            startTime = TakeOffTime;
 
             AMSL = 0;
             Longitude = 0; // that will be changed after first try to dispaly planes (DataToFlightGUITransformer.DataToGUIDataFirstTime)
@@ -98,7 +98,10 @@ namespace FlightRadar
 
         public void SetStartArgs(Single lat, Single lon, TimeOnly time)
         {
-            startTime = time;
+            TimeOnly prevTime;
+            TimeOnly.TryParse(TakeOffTime, out prevTime);
+            if (prevTime >= time) return;
+            startTime = time.ToString();
             startLat = lat;
             startLon = lon;
         }
