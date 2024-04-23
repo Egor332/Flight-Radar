@@ -1,0 +1,879 @@
+--- Logger opened ---
+11:06:57  :Busy object ID:                              10                                                
+11:06:57  :Change object ID:                            from:                                                  55                                                          to:                                                              1631                                                                  
+11:06:57  :Change object ID:                            from:                                                  340                                                         to:                                                              2209                                                                  
+11:06:57  :Change object ID:                            from:                                                  457                                                         to:                                                              1236                                                                  
+11:06:57  :Change object ID:                            from:                                                  506                                                         to:                                                              2033                                                                  
+11:06:58  :Change object ID:                            from:                                                  147                                                         to:                                                              2401                                                                  
+11:06:58  :Change object ID:                            from:                                                  574                                                         to:                                                              1962                                                                  
+11:06:58  :Change object ID:                            from:                                                  1070                                                        to:                                                              1579                                                                  
+11:06:58  :Busy object ID:                              618                                               
+11:06:58  :Busy object ID:             1326                              
+11:06:58  :Change object ID:                            from:                                                  104                                                         to:                                                              1315                                                                  
+11:06:58  :Busy object ID:             1472                              
+11:06:58  :Busy object ID:             1392                              
+11:06:58  :Busy object ID:             1481                              
+11:06:58  :Busy object ID:                              182                                               
+11:06:58  :Change object ID:                            from:                                                  29                                                          to:                                                              2089                                                                  
+11:06:58  :Busy object ID:             1485                              
+11:06:58  :Change object ID:                            from:                                                  499                                                         to:                                                              1329                                                                  
+11:06:58  :Busy object ID:             1475                              
+11:06:58  :Change object ID:                            from:                                                  171                                                         to:                                                              2098                                                                  
+11:06:58  :Change object ID:                            from:                                                  357                                                         to:                                                              2203                                                                  
+11:06:58  :Busy object ID:                              358                                               
+11:06:58  :Busy object ID:             1347                              
+11:06:58  :Change object ID:                            from:                                                  962                                                         to:                                                              1527                                                                  
+11:06:58  :Change object ID:                            from:                                                  627                                                         to:                                                              1561                                                                  
+11:06:58  :Change object ID:                            from:                                                  792                                                         to:                                                              1234                                                                  
+11:06:58  :Change object ID:                            from:                                                  650                                                         to:                                                              2321                                                                  
+11:06:58  :Busy object ID:             1431                              
+11:06:58  :Change object ID:                            from:                                                  740                                                         to:                                                              2215                                                                  
+11:06:58  :Change object ID:                            from:                                                  475                                                         to:                                                              1630                                                                  
+11:06:58: Change position, object ID: 1073                             Longitude:                              -145.21829                                 Latitude:                                        -87.924355                                            AMSL:                                                    292.1136                                                    
+11:06:59: Change position, object ID: 1036                             Longitude:                              -115.52941                                 Latitude:                                        -65.998566                                            AMSL:                                                    7409.812                                                    
+11:06:59: Change position, object ID: 1103                             Longitude:                              -67.17546                                  Latitude:                                        -59.330032                                            AMSL:                                                    3202.3145                                                   
+11:06:59: Change position, object ID: 1088                             Longitude:                              48.47077                                   Latitude:                                        27.736376                                             AMSL:                                                    9320.949                                                    
+11:06:59: Change position, object ID: 1000                             Longitude:                              15.235422                                  Latitude:                                        53.14479                                              AMSL:                                                    9944.197                                                    
+11:06:59: Change position, object ID: 1175                             Longitude:                              -55.384537                                 Latitude:                                        87.035736                                             AMSL:                                                    2779.9148                                                   
+11:06:59: Change position, object ID: 1008                             Longitude:                              96.664536                                  Latitude:                                        56.606426                                             AMSL:                                                    457.798                                                     
+11:06:59: Change position, object ID: 1013                             Longitude:                              -146.93097                                 Latitude:                                        54.21434                                              AMSL:                                                    7967.9062                                                   
+11:06:59: Change position, object ID: 984                              Longitude:                              -171.53268                                 Latitude:                                        -73.83688                                             AMSL:                                                    4522.8696                                                   
+11:06:59: Change position, object ID: 1143                             Longitude:                              -5.95481                                   Latitude:                                        -6.869265                                             AMSL:                                                    9238.392                                                    
+11:06:59: Change position, object ID: 980                              Longitude:                              -82.12707                                  Latitude:                                        1.479755                                              AMSL:                                                    444.67447                                                   
+11:06:59: Change position, object ID: 1019                             Longitude:                              -18.238646                                 Latitude:                                        63.14051                                              AMSL:                                                    5672.0625                                                   
+11:06:59  :Busy object ID:             321                               
+11:06:59: Change position, object ID: 1073                             Longitude:                              -108.147354                                Latitude:                                        27.09598                                              AMSL:                                                    3119.7957                                                   
+11:06:59: Change position, object ID: 1036                             Longitude:                              -103.43464                                 Latitude:                                        60.96732                                              AMSL:                                                    4672.3745                                                   
+11:06:59: Change position, object ID: 1103                             Longitude:                              -161.88493                                 Latitude:                                        -79.42511                                             AMSL:                                                    777.99915                                                   
+11:06:59: Change position, object ID: 1088                             Longitude:                              -140.51558                                 Latitude:                                        81.17543                                              AMSL:                                                    7980.634                                                    
+11:06:59: Change position, object ID: 1000                             Longitude:                              -133.23634                                 Latitude:                                        -13.053079                                            AMSL:                                                    6928.403                                                    
+11:06:59: Change position, object ID: 1175                             Longitude:                              148.0308                                   Latitude:                                        -66.756035                                            AMSL:                                                    5280.3286                                                   
+11:06:59: Change position, object ID: 1008                             Longitude:                              -54.132835                                 Latitude:                                        -10.536424                                            AMSL:                                                    2296.8306                                                   
+11:06:59: Change position, object ID: 1013                             Longitude:                              33.84093                                   Latitude:                                        81.83095                                              AMSL:                                                    676.9015                                                    
+11:06:59: Change position, object ID: 984                              Longitude:                              20.370777                                  Latitude:                                        -67.73591                                             AMSL:                                                    2567.2583                                                   
+11:06:59: Change position, object ID: 1143                             Longitude:                              -0.749077                                  Latitude:                                        20.052593                                             AMSL:                                                    7839.941                                                    
+11:06:59: Change position, object ID: 980                              Longitude:                              139.57149                                  Latitude:                                        63.623093                                             AMSL:                                                    276.91754                                                   
+11:06:59: Change position, object ID: 1019                             Longitude:                              97.861275                                  Latitude:                                        -53.845642                                            AMSL:                                                    3756.995                                                    
+11:06:59  :Busy object ID:             321                               
+11:06:59: Change position, object ID: 1073                             Longitude:                              47.96795                                   Latitude:                                        -5.012481                                             AMSL:                                                    5423.5605                                                   
+11:06:59: Change position, object ID: 1036                             Longitude:                              -24.074                                    Latitude:                                        -12.826984                                            AMSL:                                                    6723.151                                                    
+11:06:59: Change position, object ID: 1103                             Longitude:                              -108.28665                                 Latitude:                                        -70.61774                                             AMSL:                                                    2954.6252                                                   
+11:07:00: Change position, object ID: 1088                             Longitude:                              -169.05829                                 Latitude:                                        -8.535289                                             AMSL:                                                    1039.7069                                                   
+11:07:00: Change position, object ID: 1000                             Longitude:                              140.71909                                  Latitude:                                        -83.64768                                             AMSL:                                                    1392.2837                                                   
+11:07:00: Change position, object ID: 1175                             Longitude:                              155.66397                                  Latitude:                                        13.467536                                             AMSL:                                                    4464.936                                                    
+11:07:00: Change position, object ID: 1008                             Longitude:                              13.895434                                  Latitude:                                        -63.151962                                            AMSL:                                                    6397.2964                                                   
+11:07:00: Change position, object ID: 1013                             Longitude:                              32.557625                                  Latitude:                                        2.161791                                              AMSL:                                                    2058.9192                                                   
+11:07:00: Change position, object ID: 984                              Longitude:                              35.00642                                   Latitude:                                        -27.659632                                            AMSL:                                                    92.23284                                                    
+11:07:00: Change position, object ID: 1143                             Longitude:                              -149.48839                                 Latitude:                                        20.7811                                               AMSL:                                                    2120.0967                                                   
+11:07:00: Change position, object ID: 980                              Longitude:                              -56.339127                                 Latitude:                                        42.637367                                             AMSL:                                                    9883.734                                                    
+11:07:00: Change position, object ID: 1019                             Longitude:                              -4.987317                                  Latitude:                                        21.58896                                              AMSL:                                                    9201.4375                                                   
+11:07:00  :Change contacts, object ID: 234                              New phone:                              382-227-2487                               New email:                                       hjghjchbxjgb@abilitys.site                                  
+11:07:00  :Change contacts, object ID: 102                              New phone:                              383-287-1506                               New email:                                       nebolondicsal@nguyenvuquocanh.com                           
+11:07:00  :Change contacts, object ID: 265                              New phone:                              320-401-1385                               New email:                                       nekropolis@becknellsbakery.com                              
+11:07:00  :Change contacts, object ID: 156                              New phone:                              153-734-8335                               New email:                                       vicay2006@ebarg.net                                         
+11:07:00  :Change contacts, object ID: 163                              New phone:                              633-644-7562                               New email:                                       judsuss@naverly.com                                         
+11:07:00  :Change contacts, object ID: 264                              New phone:                              505-331-4035                               New email:                                       gr8find@abilitys.site                                       
+11:07:00  :Change contacts, object ID: 157                              New phone:                              132-878-5307                               New email:                                       jaclyn78@abilitys.site                                      
+11:07:00  :Change contacts, object ID: 261                              New phone:                              430-361-7186                               New email:                                       shaitis@centromedicoesteticodsagas.com                      
+11:07:00  :Change contacts, object ID: 251                              New phone:                              385-172-2321                               New email:                                       eyon@btcmod.com                                             
+11:07:00  :Change contacts, object ID: 171                              New phone:                              458-782-4027                               New email:                                       novens@pianoxltd.com                                        
+11:07:00  :Change contacts, object ID: 115                              New phone:                              635-084-5411                               New email:                                       bevzsergey1972@domiaaan2.online                             
+11:07:00  :Change contacts, object ID: 144                              New phone:                              076-370-5877                               New email:                                       ertan4@villastream.xyz                                      
+11:07:00  :Change contacts, object ID: 154                              New phone:                              885-053-2101                               New email:                                       voteforpablo@dealyaari.com                                  
+11:07:00  :Change contacts, object ID: 281                              New phone:                              784-272-4668                               New email:                                       saver7@degioparfume.com                                     
+11:07:00  :Change contacts, object ID: 131                              New phone:                              070-023-1168                               New email:                                       strobl@rhafhamed.online                                     
+11:07:00  :Change contacts, object ID: 223                              New phone:                              311-773-0422                               New email:                                       ckwon@sdaouig2.shop                                         
+11:07:00  :Change contacts, object ID: 248                              New phone:                              707-216-4622                               New email:                                       sukur1995tm@havenbeat.com                                   
+11:07:00  :Change contacts, object ID: 171                              New phone:                              668-831-7518                               New email:                                       asel93kz@havenbeat.com                                      
+11:07:00  :Change contacts, object ID: 270                              New phone:                              267-744-0251                               New email:                                       heats302@supersetsbarbershop.com                            
+11:07:01  :Change contacts, object ID: 255                              New phone:                              368-463-7437                               New email:                                       s151236@alphabrc.com                                        
+11:07:01  :Change contacts, object ID: 112                              New phone:                              064-178-6230                               New email:                                       oksanahatipova@degioparfume.com                             
+11:07:01  :Change contacts, object ID: 250                              New phone:                              277-008-6812                               New email:                                       alanste@koreaful.com                                        
+11:07:01  :Change contacts, object ID: 268                              New phone:                              524-850-0158                               New email:                                       lanselot095@alexcabrera.net                                 
+11:07:01  :Change contacts, object ID: 148                              New phone:                              166-418-6830                               New email:                                       sleeepy3@sportscardsfanatics.com                            
+11:07:01  :Change contacts, object ID: 147                              New phone:                              606-345-2265                               New email:                                       shankayi31w@shopvia64mail.site                              
+11:07:01  :Change contacts, object ID: 239                              New phone:                              466-371-4357                               New email:                                       varstar@sportscardsfanatics.com                             
+11:07:01  :Change contacts, object ID: 206                              New phone:                              431-481-8456                               New email:                                       deirdre10@speeddataanalytics.com                            
+11:07:01  :Change contacts, object ID: 281                              New phone:                              867-441-4812                               New email:                                       nofear7@maintenances.us                                     
+11:07:01  :Change contacts, object ID: 104                              New phone:                              630-420-0182                               New email:                                       deftoned2@speeddataanalytics.com                            
+11:07:01  :Change contacts, object ID: 247                              New phone:                              106-665-7586                               New email:                                       nikitalykov74@kongtoan.com                                  
+11:07:01  :Change contacts, object ID: 237                              New phone:                              673-107-2151                               New email:                                       mrmojo23@otpku.com                                          
+11:07:01  :Change contacts, object ID: 295                              New phone:                              424-487-6120                               New email:                                       aren01@muataikhoan.info                                     
+11:07:01  :Change contacts, object ID: 122                              New phone:                              878-343-0016                               New email:                                       ggfre@domiaaan2.online                                      
+11:07:01  :Change contacts, object ID: 127                              New phone:                              712-023-7872                               New email:                                       muhidshamsudinov@rftdsagfdsv.shop                           
+11:07:01  :Change contacts, object ID: 285                              New phone:                              063-852-3407                               New email:                                       asiak@utplexpotrabajos.com                                  
+11:07:01  :Change contacts, object ID: 115                              New phone:                              342-403-6232                               New email:                                       rmbpjvc@mytempmail.org                                      
+11:07:01  :Change contacts, object ID: 243                              New phone:                              578-537-2813                               New email:                                       lance199115@utplexpotrabajos.com                            
+11:07:01  :Change contacts, object ID: 217                              New phone:                              872-423-1725                               New email:                                       dawidklingbein@ranchodasimpex.com                           
+11:07:01  :Change contacts, object ID: 183                              New phone:                              043-566-5860                               New email:                                       gored47024@adsta415-674-2836m.com                           
+--- Logger opened ---
+--- Logger opened ---
+--- Logger opened ---
+11:29:01  :Busy object ID:                              10                                                
+--- Logger opened ---
+11:30:00  :Busy object ID:                              10                                                
+11:30:00  :Busy object ID:             10                                
+11:30:00  :Change object ID:                            from:                                                  55                                                          to:                                                              1631                                                                  
+11:30:00  :Change object ID:                            from:                                                  340                                                         to:                                                              2209                                                                  
+11:30:00  :Change object ID:                            from:                                                  457                                                         to:                                                              1236                                                                  
+11:30:00  :Change object ID:                            from:                                                  506                                                         to:                                                              2033                                                                  
+11:30:00  :Change object ID:                            from:                                                  147                                                         to:                                                              2401                                                                  
+11:30:00  :Change object ID:                            from:                                                  574                                                         to:                                                              1962                                                                  
+11:30:00  :Change object ID:                            from:                                                  1070                                                        to:                                                              1579                                                                  
+11:30:00  :Change object ID:                            from:                                                  618                                                         to:                                                              1158                                                                  
+11:30:00  :Busy object ID:             1326                              
+11:30:00  :Change object ID:                            from:                                                  104                                                         to:                                                              1315                                                                  
+11:30:00  :Busy object ID:             1472                              
+11:30:00  :Busy object ID:             1392                              
+11:30:00  :Busy object ID:             1481                              
+11:30:00  :Change object ID:                            from:                                                  182                                                         to:                                                              1005                                                                  
+11:30:01  :Change object ID:                            from:                                                  29                                                          to:                                                              2089                                                                  
+11:30:01  :Busy object ID:             1485                              
+11:30:01  :Change object ID:                            from:                                                  499                                                         to:                                                              1329                                                                  
+11:30:01  :Busy object ID:             1475                              
+11:30:01  :Change object ID:                            from:                                                  171                                                         to:                                                              2098                                                                  
+11:30:01  :Change object ID:                            from:                                                  357                                                         to:                                                              2203                                                                  
+11:30:01  :Change object ID:                            from:                                                  358                                                         to:                                                              1027                                                                  
+11:30:01  :Busy object ID:             1347                              
+11:30:01  :Change object ID:                            from:                                                  962                                                         to:                                                              1527                                                                  
+11:30:01  :Change object ID:                            from:                                                  627                                                         to:                                                              1561                                                                  
+11:30:01  :Change object ID:                            from:                                                  792                                                         to:                                                              1234                                                                  
+11:30:01  :Change object ID:                            from:                                                  650                                                         to:                                                              2321                                                                  
+11:30:01  :Busy object ID:             1431                              
+11:30:01  :Change object ID:                            from:                                                  740                                                         to:                                                              2215                                                                  
+11:30:01  :Change object ID:                            from:                                                  475                                                         to:                                                              1630                                                                  
+11:30:01: Change position, object ID: 1073                             Longitude:                              -145.21829                                 Latitude:                                        -87.924355                                            AMSL:                                                    292.1136                                                    
+11:30:01: Change position, object ID: 1036                             Longitude:                              -115.52941                                 Latitude:                                        -65.998566                                            AMSL:                                                    7409.812                                                    
+11:30:01: Change position, object ID: 1103                             Longitude:                              -67.17546                                  Latitude:                                        -59.330032                                            AMSL:                                                    3202.3145                                                   
+11:30:01: Change position, object ID: 1088                             Longitude:                              48.47077                                   Latitude:                                        27.736376                                             AMSL:                                                    9320.949                                                    
+11:30:01: Change position, object ID: 1000                             Longitude:                              15.235422                                  Latitude:                                        53.14479                                              AMSL:                                                    9944.197                                                    
+11:30:01: Change position, object ID: 1175                             Longitude:                              -55.384537                                 Latitude:                                        87.035736                                             AMSL:                                                    2779.9148                                                   
+11:30:01: Change position, object ID: 1008                             Longitude:                              96.664536                                  Latitude:                                        56.606426                                             AMSL:                                                    457.798                                                     
+11:30:01: Change position, object ID: 1013                             Longitude:                              -146.93097                                 Latitude:                                        54.21434                                              AMSL:                                                    7967.9062                                                   
+11:30:01: Change position, object ID: 984                              Longitude:                              -171.53268                                 Latitude:                                        -73.83688                                             AMSL:                                                    4522.8696                                                   
+11:30:01: Change position, object ID: 1143                             Longitude:                              -5.95481                                   Latitude:                                        -6.869265                                             AMSL:                                                    9238.392                                                    
+11:30:01: Change position, object ID: 980                              Longitude:                              -82.12707                                  Latitude:                                        1.479755                                              AMSL:                                                    444.67447                                                   
+11:30:02: Change position, object ID: 1019                             Longitude:                              -18.238646                                 Latitude:                                        63.14051                                              AMSL:                                                    5672.0625                                                   
+11:30:02  :Busy object ID:             321                               
+11:30:02: Change position, object ID: 1073                             Longitude:                              -108.147354                                Latitude:                                        27.09598                                              AMSL:                                                    3119.7957                                                   
+11:30:02: Change position, object ID: 1036                             Longitude:                              -103.43464                                 Latitude:                                        60.96732                                              AMSL:                                                    4672.3745                                                   
+11:30:02: Change position, object ID: 1103                             Longitude:                              -161.88493                                 Latitude:                                        -79.42511                                             AMSL:                                                    777.99915                                                   
+11:30:02: Change position, object ID: 1088                             Longitude:                              -140.51558                                 Latitude:                                        81.17543                                              AMSL:                                                    7980.634                                                    
+11:30:02: Change position, object ID: 1000                             Longitude:                              -133.23634                                 Latitude:                                        -13.053079                                            AMSL:                                                    6928.403                                                    
+11:30:02: Change position, object ID: 1175                             Longitude:                              148.0308                                   Latitude:                                        -66.756035                                            AMSL:                                                    5280.3286                                                   
+11:30:02: Change position, object ID: 1008                             Longitude:                              -54.132835                                 Latitude:                                        -10.536424                                            AMSL:                                                    2296.8306                                                   
+11:30:02: Change position, object ID: 1013                             Longitude:                              33.84093                                   Latitude:                                        81.83095                                              AMSL:                                                    676.9015                                                    
+11:30:02: Change position, object ID: 984                              Longitude:                              20.370777                                  Latitude:                                        -67.73591                                             AMSL:                                                    2567.2583                                                   
+11:30:02: Change position, object ID: 1143                             Longitude:                              -0.749077                                  Latitude:                                        20.052593                                             AMSL:                                                    7839.941                                                    
+11:30:02: Change position, object ID: 980                              Longitude:                              139.57149                                  Latitude:                                        63.623093                                             AMSL:                                                    276.91754                                                   
+11:30:02: Change position, object ID: 1019                             Longitude:                              97.861275                                  Latitude:                                        -53.845642                                            AMSL:                                                    3756.995                                                    
+11:30:02  :Busy object ID:             321                               
+11:30:02: Change position, object ID: 1073                             Longitude:                              47.96795                                   Latitude:                                        -5.012481                                             AMSL:                                                    5423.5605                                                   
+11:30:02: Change position, object ID: 1036                             Longitude:                              -24.074                                    Latitude:                                        -12.826984                                            AMSL:                                                    6723.151                                                    
+11:30:02: Change position, object ID: 1103                             Longitude:                              -108.28665                                 Latitude:                                        -70.61774                                             AMSL:                                                    2954.6252                                                   
+11:30:02: Change position, object ID: 1088                             Longitude:                              -169.05829                                 Latitude:                                        -8.535289                                             AMSL:                                                    1039.7069                                                   
+11:30:02: Change position, object ID: 1000                             Longitude:                              140.71909                                  Latitude:                                        -83.64768                                             AMSL:                                                    1392.2837                                                   
+11:30:02: Change position, object ID: 1175                             Longitude:                              155.66397                                  Latitude:                                        13.467536                                             AMSL:                                                    4464.936                                                    
+11:30:02: Change position, object ID: 1008                             Longitude:                              13.895434                                  Latitude:                                        -63.151962                                            AMSL:                                                    6397.2964                                                   
+11:30:02: Change position, object ID: 1013                             Longitude:                              32.557625                                  Latitude:                                        2.161791                                              AMSL:                                                    2058.9192                                                   
+11:30:02: Change position, object ID: 984                              Longitude:                              35.00642                                   Latitude:                                        -27.659632                                            AMSL:                                                    92.23284                                                    
+11:30:02: Change position, object ID: 1143                             Longitude:                              -149.48839                                 Latitude:                                        20.7811                                               AMSL:                                                    2120.0967                                                   
+11:30:02: Change position, object ID: 980                              Longitude:                              -56.339127                                 Latitude:                                        42.637367                                             AMSL:                                                    9883.734                                                    
+11:30:03: Change position, object ID: 1019                             Longitude:                              -4.987317                                  Latitude:                                        21.58896                                              AMSL:                                                    9201.4375                                                   
+11:30:03  :Change contacts, object ID: 234                              New phone:                              382-227-2487                               New email:                                       hjghjchbxjgb@abilitys.site                                  
+11:30:03  :Change contacts, object ID: 102                              New phone:                              383-287-1506                               New email:                                       nebolondicsal@nguyenvuquocanh.com                           
+11:30:03  :Change contacts, object ID: 265                              New phone:                              320-401-1385                               New email:                                       nekropolis@becknellsbakery.com                              
+11:30:03  :Change contacts, object ID: 156                              New phone:                              153-734-8335                               New email:                                       vicay2006@ebarg.net                                         
+11:30:03  :Change contacts, object ID: 163                              New phone:                              633-644-7562                               New email:                                       judsuss@naverly.com                                         
+11:30:03  :Change contacts, object ID: 264                              New phone:                              505-331-4035                               New email:                                       gr8find@abilitys.site                                       
+11:30:03  :Change contacts, object ID: 157                              New phone:                              132-878-5307                               New email:                                       jaclyn78@abilitys.site                                      
+11:30:03  :Change contacts, object ID: 261                              New phone:                              430-361-7186                               New email:                                       shaitis@centromedicoesteticodsagas.com                      
+11:30:03  :Change contacts, object ID: 251                              New phone:                              385-172-2321                               New email:                                       eyon@btcmod.com                                             
+11:30:03  :Busy object ID:             171                               
+11:30:03  :Change contacts, object ID: 115                              New phone:                              635-084-5411                               New email:                                       bevzsergey1972@domiaaan2.online                             
+11:30:03  :Change contacts, object ID: 144                              New phone:                              076-370-5877                               New email:                                       ertan4@villastream.xyz                                      
+11:30:03  :Change contacts, object ID: 154                              New phone:                              885-053-2101                               New email:                                       voteforpablo@dealyaari.com                                  
+11:30:03  :Change contacts, object ID: 281                              New phone:                              784-272-4668                               New email:                                       saver7@degioparfume.com                                     
+11:30:03  :Change contacts, object ID: 131                              New phone:                              070-023-1168                               New email:                                       strobl@rhafhamed.online                                     
+11:30:03  :Change contacts, object ID: 223                              New phone:                              311-773-0422                               New email:                                       ckwon@sdaouig2.shop                                         
+11:30:03  :Change contacts, object ID: 248                              New phone:                              707-216-4622                               New email:                                       sukur1995tm@havenbeat.com                                   
+11:30:03  :Busy object ID:             171                               
+11:30:03  :Change contacts, object ID: 270                              New phone:                              267-744-0251                               New email:                                       heats302@supersetsbarbershop.com                            
+11:30:03  :Change contacts, object ID: 255                              New phone:                              368-463-7437                               New email:                                       s151236@alphabrc.com                                        
+11:30:03  :Change contacts, object ID: 112                              New phone:                              064-178-6230                               New email:                                       oksanahatipova@degioparfume.com                             
+11:30:03  :Change contacts, object ID: 250                              New phone:                              277-008-6812                               New email:                                       alanste@koreaful.com                                        
+11:30:03  :Change contacts, object ID: 268                              New phone:                              524-850-0158                               New email:                                       lanselot095@alexcabrera.net                                 
+11:30:03  :Change contacts, object ID: 148                              New phone:                              166-418-6830                               New email:                                       sleeepy3@sportscardsfanatics.com                            
+11:30:03  :Busy object ID:             147                               
+11:30:04  :Change contacts, object ID: 239                              New phone:                              466-371-4357                               New email:                                       varstar@sportscardsfanatics.com                             
+11:30:04  :Change contacts, object ID: 206                              New phone:                              431-481-8456                               New email:                                       deirdre10@speeddataanalytics.com                            
+11:30:04  :Change contacts, object ID: 281                              New phone:                              867-441-4812                               New email:                                       nofear7@maintenances.us                                     
+11:30:04  :Busy object ID:             104                               
+11:30:04  :Change contacts, object ID: 247                              New phone:                              106-665-7586                               New email:                                       nikitalykov74@kongtoan.com                                  
+11:30:04  :Change contacts, object ID: 237                              New phone:                              673-107-2151                               New email:                                       mrmojo23@otpku.com                                          
+11:30:04  :Change contacts, object ID: 295                              New phone:                              424-487-6120                               New email:                                       aren01@muataikhoan.info                                     
+11:30:04  :Change contacts, object ID: 122                              New phone:                              878-343-0016                               New email:                                       ggfre@domiaaan2.online                                      
+11:30:04  :Change contacts, object ID: 127                              New phone:                              712-023-7872                               New email:                                       muhidshamsudinov@rftdsagfdsv.shop                           
+11:30:04  :Change contacts, object ID: 285                              New phone:                              063-852-3407                               New email:                                       asiak@utplexpotrabajos.com                                  
+11:30:04  :Change contacts, object ID: 115                              New phone:                              342-403-6232                               New email:                                       rmbpjvc@mytempmail.org                                      
+11:30:04  :Change contacts, object ID: 243                              New phone:                              578-537-2813                               New email:                                       lance199115@utplexpotrabajos.com                            
+11:30:04  :Change contacts, object ID: 217                              New phone:                              872-423-1725                               New email:                                       dawidklingbein@ranchodasimpex.com                           
+11:30:04  :Change contacts, object ID: 183                              New phone:                              043-566-5860                               New email:                                       gored47024@adsta415-674-2836m.com                           
+--- Logger closed ---
+--- Logger opened ---
+11:52:02:Busy object ID:       10      
+11:52:02  :Busy object ID:             10                                
+11:52:02:Change object ID:     from:   55      to:  1631    
+11:52:02:Change object ID:     from:   340     to:  2209    
+11:52:02:Change object ID:     from:   457     to:  1236    
+11:52:02:Change object ID:     from:   506     to:  2033    
+11:52:02:Change object ID:     from:   147     to:  2401    
+11:52:02:Change object ID:     from:   574     to:  1962    
+11:52:02:Change object ID:     from:   1070    to:  1579    
+11:52:02:Change object ID:     from:   618     to:  1158    
+11:52:02  :Busy object ID:             1326                              
+11:52:02:Change object ID:     from:   104     to:  1315    
+11:52:02  :Busy object ID:             1472                              
+11:52:02  :Busy object ID:             1392                              
+11:52:02  :Busy object ID:             1481                              
+11:52:02:Change object ID:     from:   182     to:  1005    
+11:52:02:Change object ID:     from:   29      to:  2089    
+11:52:02  :Busy object ID:             1485                              
+11:52:02:Change object ID:     from:   499     to:  1329    
+11:52:02  :Busy object ID:             1475                              
+11:52:02:Change object ID:     from:   171     to:  2098    
+11:52:02:Change object ID:     from:   357     to:  2203    
+11:52:02:Change object ID:     from:   358     to:  1027    
+11:52:02  :Busy object ID:             1347                              
+11:52:02:Change object ID:     from:   962     to:  1527    
+11:52:03:Change object ID:     from:   627     to:  1561    
+11:52:03:Change object ID:     from:   792     to:  1234    
+11:52:03:Change object ID:     from:   650     to:  2321    
+11:52:03  :Busy object ID:             1431                              
+11:52:03:Change object ID:     from:   740     to:  2215    
+11:52:03:Change object ID:     from:   475     to:  1630    
+11:52:03:Change positon, object ID:1073    Longitude:    -145.21829Latitude:     -87.924355AMSL:     292.1136  
+11:52:03:Change positon, object ID:1036    Longitude:    -115.52941Latitude:     -65.998566AMSL:     7409.812  
+11:52:03:Change positon, object ID:1103    Longitude:    -67.17546 Latitude:     -59.330032AMSL:     3202.3145 
+11:52:03:Change positon, object ID:1088    Longitude:    48.47077  Latitude:     27.736376 AMSL:     9320.949  
+11:52:03:Change positon, object ID:1000    Longitude:    15.235422 Latitude:     53.14479  AMSL:     9944.197  
+11:52:03:Change positon, object ID:1175    Longitude:    -55.384537Latitude:     87.035736 AMSL:     2779.9148 
+11:52:03:Change positon, object ID:1008    Longitude:    96.664536 Latitude:     56.606426 AMSL:     457.798   
+11:52:03:Change positon, object ID:1013    Longitude:    -146.93097Latitude:     54.21434  AMSL:     7967.9062 
+11:52:03:Change positon, object ID:984     Longitude:    -171.53268Latitude:     -73.83688 AMSL:     4522.8696 
+11:52:03:Change positon, object ID:1143    Longitude:    -5.95481  Latitude:     -6.869265 AMSL:     9238.392  
+11:52:03:Change positon, object ID:980     Longitude:    -82.12707 Latitude:     1.479755  AMSL:     444.67447 
+11:52:03:Change positon, object ID:1019    Longitude:    -18.238646Latitude:     63.14051  AMSL:     5672.0625 
+11:52:03  :Busy object ID:             321                               
+11:52:03:Change positon, object ID:1073    Longitude:    -108.147354Latitude:     27.09598  AMSL:     3119.7957 
+11:52:03:Change positon, object ID:1036    Longitude:    -103.43464Latitude:     60.96732  AMSL:     4672.3745 
+11:52:03:Change positon, object ID:1103    Longitude:    -161.88493Latitude:     -79.42511 AMSL:     777.99915 
+11:52:03:Change positon, object ID:1088    Longitude:    -140.51558Latitude:     81.17543  AMSL:     7980.634  
+11:52:03:Change positon, object ID:1000    Longitude:    -133.23634Latitude:     -13.053079AMSL:     6928.403  
+11:52:03:Change positon, object ID:1175    Longitude:    148.0308  Latitude:     -66.756035AMSL:     5280.3286 
+11:52:03:Change positon, object ID:1008    Longitude:    -54.132835Latitude:     -10.536424AMSL:     2296.8306 
+11:52:03:Change positon, object ID:1013    Longitude:    33.84093  Latitude:     81.83095  AMSL:     676.9015  
+11:52:03:Change positon, object ID:984     Longitude:    20.370777 Latitude:     -67.73591 AMSL:     2567.2583 
+11:52:03:Change positon, object ID:1143    Longitude:    -0.749077 Latitude:     20.052593 AMSL:     7839.941  
+11:52:03:Change positon, object ID:980     Longitude:    139.57149 Latitude:     63.623093 AMSL:     276.91754 
+11:52:04:Change positon, object ID:1019    Longitude:    97.861275 Latitude:     -53.845642AMSL:     3756.995  
+11:52:04  :Busy object ID:             321                               
+11:52:04:Change positon, object ID:1073    Longitude:    47.96795  Latitude:     -5.012481 AMSL:     5423.5605 
+11:52:04:Change positon, object ID:1036    Longitude:    -24.074   Latitude:     -12.826984AMSL:     6723.151  
+11:52:04:Change positon, object ID:1103    Longitude:    -108.28665Latitude:     -70.61774 AMSL:     2954.6252 
+11:52:04:Change positon, object ID:1088    Longitude:    -169.05829Latitude:     -8.535289 AMSL:     1039.7069 
+11:52:04:Change positon, object ID:1000    Longitude:    140.71909 Latitude:     -83.64768 AMSL:     1392.2837 
+11:52:04:Change positon, object ID:1175    Longitude:    155.66397 Latitude:     13.467536 AMSL:     4464.936  
+11:52:04:Change positon, object ID:1008    Longitude:    13.895434 Latitude:     -63.151962AMSL:     6397.2964 
+11:52:04:Change positon, object ID:1013    Longitude:    32.557625 Latitude:     2.161791  AMSL:     2058.9192 
+11:52:04:Change positon, object ID:984     Longitude:    35.00642  Latitude:     -27.659632AMSL:     92.23284  
+11:52:04:Change positon, object ID:1143    Longitude:    -149.48839Latitude:     20.7811   AMSL:     2120.0967 
+11:52:04:Change positon, object ID:980     Longitude:    -56.339127Latitude:     42.637367 AMSL:     9883.734  
+11:52:04:Change positon, object ID:1019    Longitude:    -4.987317 Latitude:     21.58896  AMSL:     9201.4375 
+11:52:04:Change contacts, object ID:234     New phone:    382-227-2487  New email:    hjghjchbxjgb@abilitys.site
+11:52:04:Change contacts, object ID:102     New phone:    383-287-1506  New email:    nebolondicsal@nguyenvuquocanh.com
+11:52:04:Change contacts, object ID:265     New phone:    320-401-1385  New email:    nekropolis@becknellsbakery.com
+11:52:04:Change contacts, object ID:156     New phone:    153-734-8335  New email:    vicay2006@ebarg.net      
+11:52:04:Change contacts, object ID:163     New phone:    633-644-7562  New email:    judsuss@naverly.com      
+11:52:04:Change contacts, object ID:264     New phone:    505-331-4035  New email:    gr8find@abilitys.site    
+11:52:04:Change contacts, object ID:157     New phone:    132-878-5307  New email:    jaclyn78@abilitys.site   
+11:52:04:Change contacts, object ID:261     New phone:    430-361-7186  New email:    shaitis@centromedicoesteticodsagas.com
+11:52:04:Change contacts, object ID:251     New phone:    385-172-2321  New email:    eyon@btcmod.com          
+11:52:04  :Busy object ID:             171                               
+11:52:04:Change contacts, object ID:115     New phone:    635-084-5411  New email:    bevzsergey1972@domiaaan2.online
+11:52:04:Change contacts, object ID:144     New phone:    076-370-5877  New email:    ertan4@villastream.xyz   
+11:52:05:Change contacts, object ID:154     New phone:    885-053-2101  New email:    voteforpablo@dealyaari.com
+11:52:05:Change contacts, object ID:281     New phone:    784-272-4668  New email:    saver7@degioparfume.com  
+11:52:05:Change contacts, object ID:131     New phone:    070-023-1168  New email:    strobl@rhafhamed.online  
+11:52:05:Change contacts, object ID:223     New phone:    311-773-0422  New email:    ckwon@sdaouig2.shop      
+11:52:05:Change contacts, object ID:248     New phone:    707-216-4622  New email:    sukur1995tm@havenbeat.com
+11:52:05  :Busy object ID:             171                               
+11:52:05:Change contacts, object ID:270     New phone:    267-744-0251  New email:    heats302@supersetsbarbershop.com
+11:52:05:Change contacts, object ID:255     New phone:    368-463-7437  New email:    s151236@alphabrc.com     
+11:52:05:Change contacts, object ID:112     New phone:    064-178-6230  New email:    oksanahatipova@degioparfume.com
+11:52:05:Change contacts, object ID:250     New phone:    277-008-6812  New email:    alanste@koreaful.com     
+11:52:05:Change contacts, object ID:268     New phone:    524-850-0158  New email:    lanselot095@alexcabrera.net
+11:52:05:Change contacts, object ID:148     New phone:    166-418-6830  New email:    sleeepy3@sportscardsfanatics.com
+11:52:05  :Busy object ID:             147                               
+11:52:05:Change contacts, object ID:239     New phone:    466-371-4357  New email:    varstar@sportscardsfanatics.com
+11:52:05:Change contacts, object ID:206     New phone:    431-481-8456  New email:    deirdre10@speeddataanalytics.com
+11:52:05:Change contacts, object ID:281     New phone:    867-441-4812  New email:    nofear7@maintenances.us  
+11:52:05  :Busy object ID:             104                               
+11:52:05:Change contacts, object ID:247     New phone:    106-665-7586  New email:    nikitalykov74@kongtoan.com
+11:52:05:Change contacts, object ID:237     New phone:    673-107-2151  New email:    mrmojo23@otpku.com       
+11:52:05:Change contacts, object ID:295     New phone:    424-487-6120  New email:    aren01@muataikhoan.info  
+11:52:05:Change contacts, object ID:122     New phone:    878-343-0016  New email:    ggfre@domiaaan2.online   
+11:52:05:Change contacts, object ID:127     New phone:    712-023-7872  New email:    muhidshamsudinov@rftdsagfdsv.shop
+11:52:05:Change contacts, object ID:285     New phone:    063-852-3407  New email:    asiak@utplexpotrabajos.com
+11:52:05:Change contacts, object ID:115     New phone:    342-403-6232  New email:    rmbpjvc@mytempmail.org   
+11:52:05:Change contacts, object ID:243     New phone:    578-537-2813  New email:    lance199115@utplexpotrabajos.com
+11:52:06:Change contacts, object ID:217     New phone:    872-423-1725  New email:    dawidklingbein@ranchodasimpex.com
+11:52:06:Change contacts, object ID:183     New phone:    043-566-5860  New email:    gored47024@adsta415-674-2836m.com
+--- Logger closed ---
+--- Logger opened ---
+12:02:24:Busy object ID:       10      
+12:02:24:Wrong object ID:      10      
+12:02:24:Change object ID:     from:   55      to:  1631    
+12:02:24:Change object ID:     from:   340     to:  2209    
+12:02:24:Change object ID:     from:   457     to:  1236    
+12:02:24:Change object ID:     from:   506     to:  2033    
+12:02:24:Change object ID:     from:   147     to:  2401    
+12:02:24:Change object ID:     from:   574     to:  1962    
+12:02:24:Change object ID:     from:   1070    to:  1579    
+12:02:24:Change object ID:     from:   618     to:  1158    
+12:02:24:Wrong object ID:      1326    
+12:02:24:Change object ID:     from:   104     to:  1315    
+12:02:24:Wrong object ID:      1472    
+12:02:24:Wrong object ID:      1392    
+12:02:24:Wrong object ID:      1481    
+12:02:25:Change object ID:     from:   182     to:  1005    
+12:02:25:Change object ID:     from:   29      to:  2089    
+12:02:25:Wrong object ID:      1485    
+12:02:25:Change object ID:     from:   499     to:  1329    
+12:02:25:Wrong object ID:      1475    
+12:02:25:Change object ID:     from:   171     to:  2098    
+12:02:25:Change object ID:     from:   357     to:  2203    
+12:02:25:Change object ID:     from:   358     to:  1027    
+12:02:25:Wrong object ID:      1347    
+12:02:25:Change object ID:     from:   962     to:  1527    
+12:02:25:Change object ID:     from:   627     to:  1561    
+12:02:25:Change object ID:     from:   792     to:  1234    
+12:02:25:Change object ID:     from:   650     to:  2321    
+12:02:25:Wrong object ID:      1431    
+12:02:25:Change object ID:     from:   740     to:  2215    
+12:02:25:Change object ID:     from:   475     to:  1630    
+12:02:25:Change positon, object ID:1073    Longitude:    -145.21829Latitude:     -87.924355AMSL:     292.1136  
+12:02:25:Change positon, object ID:1036    Longitude:    -115.52941Latitude:     -65.998566AMSL:     7409.812  
+12:02:25:Change positon, object ID:1103    Longitude:    -67.17546 Latitude:     -59.330032AMSL:     3202.3145 
+12:02:25:Change positon, object ID:1088    Longitude:    48.47077  Latitude:     27.736376 AMSL:     9320.949  
+12:02:25:Change positon, object ID:1000    Longitude:    15.235422 Latitude:     53.14479  AMSL:     9944.197  
+12:02:25:Change positon, object ID:1175    Longitude:    -55.384537Latitude:     87.035736 AMSL:     2779.9148 
+12:02:25:Change positon, object ID:1008    Longitude:    96.664536 Latitude:     56.606426 AMSL:     457.798   
+12:02:25:Change positon, object ID:1013    Longitude:    -146.93097Latitude:     54.21434  AMSL:     7967.9062 
+12:02:25:Change positon, object ID:984     Longitude:    -171.53268Latitude:     -73.83688 AMSL:     4522.8696 
+12:02:25:Change positon, object ID:1143    Longitude:    -5.95481  Latitude:     -6.869265 AMSL:     9238.392  
+12:02:25:Change positon, object ID:980     Longitude:    -82.12707 Latitude:     1.479755  AMSL:     444.67447 
+12:02:25:Change positon, object ID:1019    Longitude:    -18.238646Latitude:     63.14051  AMSL:     5672.0625 
+12:02:25:Wrong object ID:      321     
+12:02:25:Change positon, object ID:1073    Longitude:    -108.147354Latitude:     27.09598  AMSL:     3119.7957 
+12:02:26:Change positon, object ID:1036    Longitude:    -103.43464Latitude:     60.96732  AMSL:     4672.3745 
+12:02:26:Change positon, object ID:1103    Longitude:    -161.88493Latitude:     -79.42511 AMSL:     777.99915 
+12:02:26:Change positon, object ID:1088    Longitude:    -140.51558Latitude:     81.17543  AMSL:     7980.634  
+12:02:26:Change positon, object ID:1000    Longitude:    -133.23634Latitude:     -13.053079AMSL:     6928.403  
+12:02:26:Change positon, object ID:1175    Longitude:    148.0308  Latitude:     -66.756035AMSL:     5280.3286 
+12:02:26:Change positon, object ID:1008    Longitude:    -54.132835Latitude:     -10.536424AMSL:     2296.8306 
+12:02:26:Change positon, object ID:1013    Longitude:    33.84093  Latitude:     81.83095  AMSL:     676.9015  
+12:02:26:Change positon, object ID:984     Longitude:    20.370777 Latitude:     -67.73591 AMSL:     2567.2583 
+12:02:26:Change positon, object ID:1143    Longitude:    -0.749077 Latitude:     20.052593 AMSL:     7839.941  
+12:02:26:Change positon, object ID:980     Longitude:    139.57149 Latitude:     63.623093 AMSL:     276.91754 
+12:02:26:Change positon, object ID:1019    Longitude:    97.861275 Latitude:     -53.845642AMSL:     3756.995  
+12:02:26:Wrong object ID:      321     
+12:02:26:Change positon, object ID:1073    Longitude:    47.96795  Latitude:     -5.012481 AMSL:     5423.5605 
+12:02:26:Change positon, object ID:1036    Longitude:    -24.074   Latitude:     -12.826984AMSL:     6723.151  
+12:02:26:Change positon, object ID:1103    Longitude:    -108.28665Latitude:     -70.61774 AMSL:     2954.6252 
+12:02:26:Change positon, object ID:1088    Longitude:    -169.05829Latitude:     -8.535289 AMSL:     1039.7069 
+12:02:26:Change positon, object ID:1000    Longitude:    140.71909 Latitude:     -83.64768 AMSL:     1392.2837 
+12:02:26:Change positon, object ID:1175    Longitude:    155.66397 Latitude:     13.467536 AMSL:     4464.936  
+12:02:26:Change positon, object ID:1008    Longitude:    13.895434 Latitude:     -63.151962AMSL:     6397.2964 
+12:02:26:Change positon, object ID:1013    Longitude:    32.557625 Latitude:     2.161791  AMSL:     2058.9192 
+12:02:26:Change positon, object ID:984     Longitude:    35.00642  Latitude:     -27.659632AMSL:     92.23284  
+12:02:26:Change positon, object ID:1143    Longitude:    -149.48839Latitude:     20.7811   AMSL:     2120.0967 
+12:02:26:Change positon, object ID:980     Longitude:    -56.339127Latitude:     42.637367 AMSL:     9883.734  
+12:02:26:Change positon, object ID:1019    Longitude:    -4.987317 Latitude:     21.58896  AMSL:     9201.4375 
+12:02:26:Change contacts, object ID:234     New phone:    382-227-2487  New email:    hjghjchbxjgb@abilitys.site
+12:02:26:Change contacts, object ID:102     New phone:    383-287-1506  New email:    nebolondicsal@nguyenvuquocanh.com
+12:02:26:Change contacts, object ID:265     New phone:    320-401-1385  New email:    nekropolis@becknellsbakery.com
+12:02:26:Change contacts, object ID:156     New phone:    153-734-8335  New email:    vicay2006@ebarg.net      
+12:02:27:Change contacts, object ID:163     New phone:    633-644-7562  New email:    judsuss@naverly.com      
+12:02:27:Change contacts, object ID:264     New phone:    505-331-4035  New email:    gr8find@abilitys.site    
+12:02:27:Change contacts, object ID:157     New phone:    132-878-5307  New email:    jaclyn78@abilitys.site   
+12:02:27:Change contacts, object ID:261     New phone:    430-361-7186  New email:    shaitis@centromedicoesteticodsagas.com
+12:02:27:Change contacts, object ID:251     New phone:    385-172-2321  New email:    eyon@btcmod.com          
+12:02:27:Wrong object ID:      171     
+12:02:27:Change contacts, object ID:115     New phone:    635-084-5411  New email:    bevzsergey1972@domiaaan2.online
+12:02:27:Change contacts, object ID:144     New phone:    076-370-5877  New email:    ertan4@villastream.xyz   
+12:02:27:Change contacts, object ID:154     New phone:    885-053-2101  New email:    voteforpablo@dealyaari.com
+12:02:27:Change contacts, object ID:281     New phone:    784-272-4668  New email:    saver7@degioparfume.com  
+12:02:27:Change contacts, object ID:131     New phone:    070-023-1168  New email:    strobl@rhafhamed.online  
+12:02:27:Change contacts, object ID:223     New phone:    311-773-0422  New email:    ckwon@sdaouig2.shop      
+12:02:27:Change contacts, object ID:248     New phone:    707-216-4622  New email:    sukur1995tm@havenbeat.com
+12:02:27:Wrong object ID:      171     
+12:02:27:Change contacts, object ID:270     New phone:    267-744-0251  New email:    heats302@supersetsbarbershop.com
+12:02:27:Change contacts, object ID:255     New phone:    368-463-7437  New email:    s151236@alphabrc.com     
+12:02:27:Change contacts, object ID:112     New phone:    064-178-6230  New email:    oksanahatipova@degioparfume.com
+12:02:27:Change contacts, object ID:250     New phone:    277-008-6812  New email:    alanste@koreaful.com     
+12:02:27:Change contacts, object ID:268     New phone:    524-850-0158  New email:    lanselot095@alexcabrera.net
+12:02:27:Change contacts, object ID:148     New phone:    166-418-6830  New email:    sleeepy3@sportscardsfanatics.com
+12:02:27:Wrong object ID:      147     
+12:02:27:Change contacts, object ID:239     New phone:    466-371-4357  New email:    varstar@sportscardsfanatics.com
+12:02:27:Change contacts, object ID:206     New phone:    431-481-8456  New email:    deirdre10@speeddataanalytics.com
+12:02:27:Change contacts, object ID:281     New phone:    867-441-4812  New email:    nofear7@maintenances.us  
+12:02:27:Wrong object ID:      104     
+12:02:28:Change contacts, object ID:247     New phone:    106-665-7586  New email:    nikitalykov74@kongtoan.com
+12:02:28:Change contacts, object ID:237     New phone:    673-107-2151  New email:    mrmojo23@otpku.com       
+12:02:28:Change contacts, object ID:295     New phone:    424-487-6120  New email:    aren01@muataikhoan.info  
+12:02:28:Change contacts, object ID:122     New phone:    878-343-0016  New email:    ggfre@domiaaan2.online   
+12:02:28:Change contacts, object ID:127     New phone:    712-023-7872  New email:    muhidshamsudinov@rftdsagfdsv.shop
+12:02:28:Change contacts, object ID:285     New phone:    063-852-3407  New email:    asiak@utplexpotrabajos.com
+12:02:28:Change contacts, object ID:115     New phone:    342-403-6232  New email:    rmbpjvc@mytempmail.org   
+12:02:28:Change contacts, object ID:243     New phone:    578-537-2813  New email:    lance199115@utplexpotrabajos.com
+12:02:28:Change contacts, object ID:217     New phone:    872-423-1725  New email:    dawidklingbein@ranchodasimpex.com
+12:02:28:Change contacts, object ID:183     New phone:    043-566-5860  New email:    gored47024@adsta415-674-2836m.com
+--- Logger opened ---
+12:02:53:Busy object ID:       10      
+12:02:53:Wrong object ID:      10      
+12:02:53:Change object ID:     from:   55      to:  1631    
+12:02:53:Change object ID:     from:   340     to:  2209    
+12:02:53:Change object ID:     from:   457     to:  1236    
+12:02:53:Change object ID:     from:   506     to:  2033    
+12:02:53:Change object ID:     from:   147     to:  2401    
+12:02:53:Change object ID:     from:   574     to:  1962    
+12:02:53:Change object ID:     from:   1070    to:  1579    
+12:02:53:Change object ID:     from:   618     to:  1158    
+12:02:53:Wrong object ID:      1326    
+12:02:53:Change object ID:     from:   104     to:  1315    
+12:02:53:Wrong object ID:      1472    
+12:02:53:Wrong object ID:      1392    
+12:02:53:Wrong object ID:      1481    
+12:02:53:Change object ID:     from:   182     to:  1005    
+12:02:53:Change object ID:     from:   29      to:  2089    
+12:02:53:Wrong object ID:      1485    
+12:02:53:Change object ID:     from:   499     to:  1329    
+12:02:53:Wrong object ID:      1475    
+12:02:53:Change object ID:     from:   171     to:  2098    
+12:02:53:Change object ID:     from:   357     to:  2203    
+12:02:53:Change object ID:     from:   358     to:  1027    
+12:02:53:Wrong object ID:      1347    
+12:02:53:Change object ID:     from:   962     to:  1527    
+12:02:54:Change object ID:     from:   627     to:  1561    
+12:02:54:Change object ID:     from:   792     to:  1234    
+12:02:54:Change object ID:     from:   650     to:  2321    
+12:02:54:Wrong object ID:      1431    
+12:02:54:Change object ID:     from:   740     to:  2215    
+12:02:54:Change object ID:     from:   475     to:  1630    
+12:02:54:Change positon, object ID:1073    Longitude:    -145.21829Latitude:     -87.924355AMSL:     292.1136  
+12:02:54:Change positon, object ID:1036    Longitude:    -115.52941Latitude:     -65.998566AMSL:     7409.812  
+12:02:54:Change positon, object ID:1103    Longitude:    -67.17546 Latitude:     -59.330032AMSL:     3202.3145 
+12:02:54:Change positon, object ID:1088    Longitude:    48.47077  Latitude:     27.736376 AMSL:     9320.949  
+12:02:54:Change positon, object ID:1000    Longitude:    15.235422 Latitude:     53.14479  AMSL:     9944.197  
+12:02:54:Change positon, object ID:1175    Longitude:    -55.384537Latitude:     87.035736 AMSL:     2779.9148 
+12:02:54:Change positon, object ID:1008    Longitude:    96.664536 Latitude:     56.606426 AMSL:     457.798   
+12:02:54:Change positon, object ID:1013    Longitude:    -146.93097Latitude:     54.21434  AMSL:     7967.9062 
+12:02:54:Change positon, object ID:984     Longitude:    -171.53268Latitude:     -73.83688 AMSL:     4522.8696 
+12:02:54:Change positon, object ID:1143    Longitude:    -5.95481  Latitude:     -6.869265 AMSL:     9238.392  
+12:02:54:Change positon, object ID:980     Longitude:    -82.12707 Latitude:     1.479755  AMSL:     444.67447 
+12:02:54:Change positon, object ID:1019    Longitude:    -18.238646Latitude:     63.14051  AMSL:     5672.0625 
+12:02:54:Wrong object ID:      321     
+12:02:54:Change positon, object ID:1073    Longitude:    -108.147354Latitude:     27.09598  AMSL:     3119.7957 
+12:02:54:Change positon, object ID:1036    Longitude:    -103.43464Latitude:     60.96732  AMSL:     4672.3745 
+12:02:54:Change positon, object ID:1103    Longitude:    -161.88493Latitude:     -79.42511 AMSL:     777.99915 
+12:02:54:Change positon, object ID:1088    Longitude:    -140.51558Latitude:     81.17543  AMSL:     7980.634  
+12:02:54:Change positon, object ID:1000    Longitude:    -133.23634Latitude:     -13.053079AMSL:     6928.403  
+12:02:54:Change positon, object ID:1175    Longitude:    148.0308  Latitude:     -66.756035AMSL:     5280.3286 
+12:02:54:Change positon, object ID:1008    Longitude:    -54.132835Latitude:     -10.536424AMSL:     2296.8306 
+12:02:54:Change positon, object ID:1013    Longitude:    33.84093  Latitude:     81.83095  AMSL:     676.9015  
+12:02:54:Change positon, object ID:984     Longitude:    20.370777 Latitude:     -67.73591 AMSL:     2567.2583 
+12:02:54:Change positon, object ID:1143    Longitude:    -0.749077 Latitude:     20.052593 AMSL:     7839.941  
+12:02:55:Change positon, object ID:980     Longitude:    139.57149 Latitude:     63.623093 AMSL:     276.91754 
+12:02:55:Change positon, object ID:1019    Longitude:    97.861275 Latitude:     -53.845642AMSL:     3756.995  
+12:02:55:Wrong object ID:      321     
+12:02:55:Change positon, object ID:1073    Longitude:    47.96795  Latitude:     -5.012481 AMSL:     5423.5605 
+12:02:55:Change positon, object ID:1036    Longitude:    -24.074   Latitude:     -12.826984AMSL:     6723.151  
+12:02:55:Change positon, object ID:1103    Longitude:    -108.28665Latitude:     -70.61774 AMSL:     2954.6252 
+12:02:55:Change positon, object ID:1088    Longitude:    -169.05829Latitude:     -8.535289 AMSL:     1039.7069 
+12:02:55:Change positon, object ID:1000    Longitude:    140.71909 Latitude:     -83.64768 AMSL:     1392.2837 
+12:02:55:Change positon, object ID:1175    Longitude:    155.66397 Latitude:     13.467536 AMSL:     4464.936  
+12:02:55:Change positon, object ID:1008    Longitude:    13.895434 Latitude:     -63.151962AMSL:     6397.2964 
+12:02:55:Change positon, object ID:1013    Longitude:    32.557625 Latitude:     2.161791  AMSL:     2058.9192 
+12:02:55:Change positon, object ID:984     Longitude:    35.00642  Latitude:     -27.659632AMSL:     92.23284  
+12:02:55:Change positon, object ID:1143    Longitude:    -149.48839Latitude:     20.7811   AMSL:     2120.0967 
+12:02:55:Change positon, object ID:980     Longitude:    -56.339127Latitude:     42.637367 AMSL:     9883.734  
+12:02:55:Change positon, object ID:1019    Longitude:    -4.987317 Latitude:     21.58896  AMSL:     9201.4375 
+12:02:55:Change contacts, object ID:234     New phone:    382-227-2487  New email:    hjghjchbxjgb@abilitys.site
+12:02:55:Change contacts, object ID:102     New phone:    383-287-1506  New email:    nebolondicsal@nguyenvuquocanh.com
+12:02:55:Change contacts, object ID:265     New phone:    320-401-1385  New email:    nekropolis@becknellsbakery.com
+12:02:55:Change contacts, object ID:156     New phone:    153-734-8335  New email:    vicay2006@ebarg.net      
+12:02:55:Change contacts, object ID:163     New phone:    633-644-7562  New email:    judsuss@naverly.com      
+12:02:55:Change contacts, object ID:264     New phone:    505-331-4035  New email:    gr8find@abilitys.site    
+12:02:55:Change contacts, object ID:157     New phone:    132-878-5307  New email:    jaclyn78@abilitys.site   
+12:02:55:Change contacts, object ID:261     New phone:    430-361-7186  New email:    shaitis@centromedicoesteticodsagas.com
+12:02:55:Change contacts, object ID:251     New phone:    385-172-2321  New email:    eyon@btcmod.com          
+12:02:55:Wrong object ID:      171     
+12:02:55:Change contacts, object ID:115     New phone:    635-084-5411  New email:    bevzsergey1972@domiaaan2.online
+12:02:55:Change contacts, object ID:144     New phone:    076-370-5877  New email:    ertan4@villastream.xyz   
+12:02:55:Change contacts, object ID:154     New phone:    885-053-2101  New email:    voteforpablo@dealyaari.com
+12:02:55:Change contacts, object ID:281     New phone:    784-272-4668  New email:    saver7@degioparfume.com  
+12:02:56:Change contacts, object ID:131     New phone:    070-023-1168  New email:    strobl@rhafhamed.online  
+12:02:56:Change contacts, object ID:223     New phone:    311-773-0422  New email:    ckwon@sdaouig2.shop      
+12:02:56:Change contacts, object ID:248     New phone:    707-216-4622  New email:    sukur1995tm@havenbeat.com
+12:02:56:Wrong object ID:      171     
+12:02:56:Change contacts, object ID:270     New phone:    267-744-0251  New email:    heats302@supersetsbarbershop.com
+12:02:56:Change contacts, object ID:255     New phone:    368-463-7437  New email:    s151236@alphabrc.com     
+12:02:56:Change contacts, object ID:112     New phone:    064-178-6230  New email:    oksanahatipova@degioparfume.com
+12:02:56:Change contacts, object ID:250     New phone:    277-008-6812  New email:    alanste@koreaful.com     
+12:02:56:Change contacts, object ID:268     New phone:    524-850-0158  New email:    lanselot095@alexcabrera.net
+12:02:56:Change contacts, object ID:148     New phone:    166-418-6830  New email:    sleeepy3@sportscardsfanatics.com
+12:02:56:Wrong object ID:      147     
+12:02:56:Change contacts, object ID:239     New phone:    466-371-4357  New email:    varstar@sportscardsfanatics.com
+12:02:56:Change contacts, object ID:206     New phone:    431-481-8456  New email:    deirdre10@speeddataanalytics.com
+12:02:56:Change contacts, object ID:281     New phone:    867-441-4812  New email:    nofear7@maintenances.us  
+12:02:56:Wrong object ID:      104     
+12:02:56:Change contacts, object ID:247     New phone:    106-665-7586  New email:    nikitalykov74@kongtoan.com
+12:02:56:Change contacts, object ID:237     New phone:    673-107-2151  New email:    mrmojo23@otpku.com       
+12:02:56:Change contacts, object ID:295     New phone:    424-487-6120  New email:    aren01@muataikhoan.info  
+12:02:56:Change contacts, object ID:122     New phone:    878-343-0016  New email:    ggfre@domiaaan2.online   
+12:02:56:Change contacts, object ID:127     New phone:    712-023-7872  New email:    muhidshamsudinov@rftdsagfdsv.shop
+12:02:56:Change contacts, object ID:285     New phone:    063-852-3407  New email:    asiak@utplexpotrabajos.com
+12:02:56:Change contacts, object ID:115     New phone:    342-403-6232  New email:    rmbpjvc@mytempmail.org   
+12:02:56:Change contacts, object ID:243     New phone:    578-537-2813  New email:    lance199115@utplexpotrabajos.com
+12:02:56:Change contacts, object ID:217     New phone:    872-423-1725  New email:    dawidklingbein@ranchodasimpex.com
+12:02:56:Change contacts, object ID:183     New phone:    043-566-5860  New email:    gored47024@adsta415-674-2836m.com
+--- Logger opened ---
+12:03:21:Busy object ID:       10      
+12:03:21:Wrong object ID:      10      
+12:03:21:Change object ID:     from:   55      to:  1631    
+12:03:21:Change object ID:     from:   340     to:  2209    
+12:03:21:Change object ID:     from:   457     to:  1236    
+12:03:21:Change object ID:     from:   506     to:  2033    
+12:03:21:Change object ID:     from:   147     to:  2401    
+12:03:21:Change object ID:     from:   574     to:  1962    
+12:03:21:Change object ID:     from:   1070    to:  1579    
+12:03:21:Change object ID:     from:   618     to:  1158    
+12:03:21:Wrong object ID:      1326    
+12:03:21:Change object ID:     from:   104     to:  1315    
+12:03:21:Wrong object ID:      1472    
+12:03:21:Wrong object ID:      1392    
+12:03:21:Wrong object ID:      1481    
+12:03:21:Change object ID:     from:   182     to:  1005    
+12:03:21:Change object ID:     from:   29      to:  2089    
+12:03:21:Wrong object ID:      1485    
+12:03:21:Change object ID:     from:   499     to:  1329    
+12:03:21:Wrong object ID:      1475    
+12:03:21:Change object ID:     from:   171     to:  2098    
+12:03:21:Change object ID:     from:   357     to:  2203    
+12:03:21:Change object ID:     from:   358     to:  1027    
+12:03:21:Wrong object ID:      1347    
+12:03:21:Change object ID:     from:   962     to:  1527    
+12:03:21:Change object ID:     from:   627     to:  1561    
+12:03:21:Change object ID:     from:   792     to:  1234    
+12:03:21:Change object ID:     from:   650     to:  2321    
+12:03:22:Wrong object ID:      1431    
+12:03:22:Change object ID:     from:   740     to:  2215    
+12:03:22:Change object ID:     from:   475     to:  1630    
+12:03:22:Change positon, object ID:1073    Longitude:    -145.21829Latitude:     -87.924355AMSL:     292.1136  
+12:03:22:Change positon, object ID:1036    Longitude:    -115.52941Latitude:     -65.998566AMSL:     7409.812  
+12:03:22:Change positon, object ID:1103    Longitude:    -67.17546 Latitude:     -59.330032AMSL:     3202.3145 
+12:03:22:Change positon, object ID:1088    Longitude:    48.47077  Latitude:     27.736376 AMSL:     9320.949  
+12:03:22:Change positon, object ID:1000    Longitude:    15.235422 Latitude:     53.14479  AMSL:     9944.197  
+12:03:22:Change positon, object ID:1175    Longitude:    -55.384537Latitude:     87.035736 AMSL:     2779.9148 
+12:03:22:Change positon, object ID:1008    Longitude:    96.664536 Latitude:     56.606426 AMSL:     457.798   
+12:03:22:Change positon, object ID:1013    Longitude:    -146.93097Latitude:     54.21434  AMSL:     7967.9062 
+12:03:22:Change positon, object ID:984     Longitude:    -171.53268Latitude:     -73.83688 AMSL:     4522.8696 
+12:03:22:Change positon, object ID:1143    Longitude:    -5.95481  Latitude:     -6.869265 AMSL:     9238.392  
+12:03:22:Change positon, object ID:980     Longitude:    -82.12707 Latitude:     1.479755  AMSL:     444.67447 
+12:03:22:Change positon, object ID:1019    Longitude:    -18.238646Latitude:     63.14051  AMSL:     5672.0625 
+12:03:22:Wrong object ID:      321     
+12:03:22:Change positon, object ID:1073    Longitude:    -108.147354Latitude:     27.09598  AMSL:     3119.7957 
+12:03:22:Change positon, object ID:1036    Longitude:    -103.43464Latitude:     60.96732  AMSL:     4672.3745 
+12:03:22:Change positon, object ID:1103    Longitude:    -161.88493Latitude:     -79.42511 AMSL:     777.99915 
+12:03:22:Change positon, object ID:1088    Longitude:    -140.51558Latitude:     81.17543  AMSL:     7980.634  
+12:03:22:Change positon, object ID:1000    Longitude:    -133.23634Latitude:     -13.053079AMSL:     6928.403  
+12:03:22:Change positon, object ID:1175    Longitude:    148.0308  Latitude:     -66.756035AMSL:     5280.3286 
+12:03:22:Change positon, object ID:1008    Longitude:    -54.132835Latitude:     -10.536424AMSL:     2296.8306 
+12:03:22:Change positon, object ID:1013    Longitude:    33.84093  Latitude:     81.83095  AMSL:     676.9015  
+12:03:23:Change positon, object ID:984     Longitude:    20.370777 Latitude:     -67.73591 AMSL:     2567.2583 
+12:03:23:Change positon, object ID:1143    Longitude:    -0.749077 Latitude:     20.052593 AMSL:     7839.941  
+12:03:23:Change positon, object ID:980     Longitude:    139.57149 Latitude:     63.623093 AMSL:     276.91754 
+12:03:23:Change positon, object ID:1019    Longitude:    97.861275 Latitude:     -53.845642AMSL:     3756.995  
+12:03:23:Wrong object ID:      321     
+12:03:23:Change positon, object ID:1073    Longitude:    47.96795  Latitude:     -5.012481 AMSL:     5423.5605 
+12:03:23:Change positon, object ID:1036    Longitude:    -24.074   Latitude:     -12.826984AMSL:     6723.151  
+12:03:23:Change positon, object ID:1103    Longitude:    -108.28665Latitude:     -70.61774 AMSL:     2954.6252 
+12:03:23:Change positon, object ID:1088    Longitude:    -169.05829Latitude:     -8.535289 AMSL:     1039.7069 
+12:03:23:Change positon, object ID:1000    Longitude:    140.71909 Latitude:     -83.64768 AMSL:     1392.2837 
+12:03:23:Change positon, object ID:1175    Longitude:    155.66397 Latitude:     13.467536 AMSL:     4464.936  
+12:03:23:Change positon, object ID:1008    Longitude:    13.895434 Latitude:     -63.151962AMSL:     6397.2964 
+12:03:23:Change positon, object ID:1013    Longitude:    32.557625 Latitude:     2.161791  AMSL:     2058.9192 
+12:03:23:Change positon, object ID:984     Longitude:    35.00642  Latitude:     -27.659632AMSL:     92.23284  
+12:03:23:Change positon, object ID:1143    Longitude:    -149.48839Latitude:     20.7811   AMSL:     2120.0967 
+12:03:23:Change positon, object ID:980     Longitude:    -56.339127Latitude:     42.637367 AMSL:     9883.734  
+12:03:23:Change positon, object ID:1019    Longitude:    -4.987317 Latitude:     21.58896  AMSL:     9201.4375 
+12:03:23:Change contacts, object ID:234     New phone:    382-227-2487  New email:    hjghjchbxjgb@abilitys.site
+12:03:23:Change contacts, object ID:102     New phone:    383-287-1506  New email:    nebolondicsal@nguyenvuquocanh.com
+12:03:23:Change contacts, object ID:265     New phone:    320-401-1385  New email:    nekropolis@becknellsbakery.com
+12:03:23:Change contacts, object ID:156     New phone:    153-734-8335  New email:    vicay2006@ebarg.net      
+12:03:23:Change contacts, object ID:163     New phone:    633-644-7562  New email:    judsuss@naverly.com      
+12:03:23:Change contacts, object ID:264     New phone:    505-331-4035  New email:    gr8find@abilitys.site    
+12:03:23:Change contacts, object ID:157     New phone:    132-878-5307  New email:    jaclyn78@abilitys.site   
+12:03:23:Change contacts, object ID:261     New phone:    430-361-7186  New email:    shaitis@centromedicoesteticodsagas.com
+12:03:23:Change contacts, object ID:251     New phone:    385-172-2321  New email:    eyon@btcmod.com          
+12:03:23:Wrong object ID:      171     
+12:03:23:Change contacts, object ID:115     New phone:    635-084-5411  New email:    bevzsergey1972@domiaaan2.online
+12:03:23:Change contacts, object ID:144     New phone:    076-370-5877  New email:    ertan4@villastream.xyz   
+12:03:24:Change contacts, object ID:154     New phone:    885-053-2101  New email:    voteforpablo@dealyaari.com
+12:03:24:Change contacts, object ID:281     New phone:    784-272-4668  New email:    saver7@degioparfume.com  
+12:03:24:Change contacts, object ID:131     New phone:    070-023-1168  New email:    strobl@rhafhamed.online  
+12:03:24:Change contacts, object ID:223     New phone:    311-773-0422  New email:    ckwon@sdaouig2.shop      
+12:03:24:Change contacts, object ID:248     New phone:    707-216-4622  New email:    sukur1995tm@havenbeat.com
+12:03:24:Wrong object ID:      171     
+12:03:24:Change contacts, object ID:270     New phone:    267-744-0251  New email:    heats302@supersetsbarbershop.com
+12:03:24:Change contacts, object ID:255     New phone:    368-463-7437  New email:    s151236@alphabrc.com     
+12:03:24:Change contacts, object ID:112     New phone:    064-178-6230  New email:    oksanahatipova@degioparfume.com
+12:03:24:Change contacts, object ID:250     New phone:    277-008-6812  New email:    alanste@koreaful.com     
+12:03:24:Change contacts, object ID:268     New phone:    524-850-0158  New email:    lanselot095@alexcabrera.net
+12:03:24:Change contacts, object ID:148     New phone:    166-418-6830  New email:    sleeepy3@sportscardsfanatics.com
+12:03:24:Wrong object ID:      147     
+12:03:24:Change contacts, object ID:239     New phone:    466-371-4357  New email:    varstar@sportscardsfanatics.com
+12:03:24:Change contacts, object ID:206     New phone:    431-481-8456  New email:    deirdre10@speeddataanalytics.com
+12:03:24:Change contacts, object ID:281     New phone:    867-441-4812  New email:    nofear7@maintenances.us  
+12:03:24:Wrong object ID:      104     
+12:03:24:Change contacts, object ID:247     New phone:    106-665-7586  New email:    nikitalykov74@kongtoan.com
+12:03:24:Change contacts, object ID:237     New phone:    673-107-2151  New email:    mrmojo23@otpku.com       
+12:03:24:Change contacts, object ID:295     New phone:    424-487-6120  New email:    aren01@muataikhoan.info  
+12:03:24:Change contacts, object ID:122     New phone:    878-343-0016  New email:    ggfre@domiaaan2.online   
+12:03:24:Change contacts, object ID:127     New phone:    712-023-7872  New email:    muhidshamsudinov@rftdsagfdsv.shop
+12:03:24:Change contacts, object ID:285     New phone:    063-852-3407  New email:    asiak@utplexpotrabajos.com
+12:03:24:Change contacts, object ID:115     New phone:    342-403-6232  New email:    rmbpjvc@mytempmail.org   
+12:03:24:Change contacts, object ID:243     New phone:    578-537-2813  New email:    lance199115@utplexpotrabajos.com
+12:03:24:Change contacts, object ID:217     New phone:    872-423-1725  New email:    dawidklingbein@ranchodasimpex.com
+12:03:25:Change contacts, object ID:183     New phone:    043-566-5860  New email:    gored47024@adsta415-674-2836m.com
+--- Logger opened ---
+12:03:56:Busy object ID:       10      
+12:03:56:Wrong object ID:      10      
+12:03:56:Change object ID:     from:   55      to:  1631    
+12:03:56:Change object ID:     from:   340     to:  2209    
+12:03:56:Change object ID:     from:   457     to:  1236    
+12:03:56:Change object ID:     from:   506     to:  2033    
+12:03:56:Change object ID:     from:   147     to:  2401    
+12:03:56:Change object ID:     from:   574     to:  1962    
+12:03:56:Change object ID:     from:   1070    to:  1579    
+12:03:56:Change object ID:     from:   618     to:  1158    
+12:03:56:Wrong object ID:      1326    
+12:03:56:Change object ID:     from:   104     to:  1315    
+12:03:56:Wrong object ID:      1472    
+12:03:56:Wrong object ID:      1392    
+12:03:56:Wrong object ID:      1481    
+12:03:56:Change object ID:     from:   182     to:  1005    
+12:03:56:Change object ID:     from:   29      to:  2089    
+12:03:56:Wrong object ID:      1485    
+12:03:56:Change object ID:     from:   499     to:  1329    
+12:03:56:Wrong object ID:      1475    
+12:03:56:Change object ID:     from:   171     to:  2098    
+12:03:56:Change object ID:     from:   357     to:  2203    
+12:03:56:Change object ID:     from:   358     to:  1027    
+12:03:56:Wrong object ID:      1347    
+12:03:57:Change object ID:     from:   962     to:  1527    
+12:03:57:Change object ID:     from:   627     to:  1561    
+12:03:57:Change object ID:     from:   792     to:  1234    
+12:03:57:Change object ID:     from:   650     to:  2321    
+12:03:57:Wrong object ID:      1431    
+12:03:57:Change object ID:     from:   740     to:  2215    
+12:03:57:Change object ID:     from:   475     to:  1630    
+12:03:57:Change positon, object ID:1073    Longitude:    -145.21829Latitude:     -87.924355AMSL:     292.1136  
+12:03:57:Change positon, object ID:1036    Longitude:    -115.52941Latitude:     -65.998566AMSL:     7409.812  
+12:03:57:Change positon, object ID:1103    Longitude:    -67.17546 Latitude:     -59.330032AMSL:     3202.3145 
+12:03:57:Change positon, object ID:1088    Longitude:    48.47077  Latitude:     27.736376 AMSL:     9320.949  
+12:03:57:Change positon, object ID:1000    Longitude:    15.235422 Latitude:     53.14479  AMSL:     9944.197  
+12:03:57:Change positon, object ID:1175    Longitude:    -55.384537Latitude:     87.035736 AMSL:     2779.9148 
+12:03:57:Change positon, object ID:1008    Longitude:    96.664536 Latitude:     56.606426 AMSL:     457.798   
+12:03:57:Change positon, object ID:1013    Longitude:    -146.93097Latitude:     54.21434  AMSL:     7967.9062 
+12:03:57:Change positon, object ID:984     Longitude:    -171.53268Latitude:     -73.83688 AMSL:     4522.8696 
+12:03:57:Change positon, object ID:1143    Longitude:    -5.95481  Latitude:     -6.869265 AMSL:     9238.392  
+12:03:57:Change positon, object ID:980     Longitude:    -82.12707 Latitude:     1.479755  AMSL:     444.67447 
+12:03:57:Change positon, object ID:1019    Longitude:    -18.238646Latitude:     63.14051  AMSL:     5672.0625 
+12:03:57:Wrong object ID:      321     
+12:03:57:Change positon, object ID:1073    Longitude:    -108.147354Latitude:     27.09598  AMSL:     3119.7957 
+12:03:57:Change positon, object ID:1036    Longitude:    -103.43464Latitude:     60.96732  AMSL:     4672.3745 
+12:03:57:Change positon, object ID:1103    Longitude:    -161.88493Latitude:     -79.42511 AMSL:     777.99915 
+12:03:57:Change positon, object ID:1088    Longitude:    -140.51558Latitude:     81.17543  AMSL:     7980.634  
+12:03:58:Change positon, object ID:1000    Longitude:    -133.23634Latitude:     -13.053079AMSL:     6928.403  
+12:03:58:Change positon, object ID:1175    Longitude:    148.0308  Latitude:     -66.756035AMSL:     5280.3286 
+12:03:58:Change positon, object ID:1008    Longitude:    -54.132835Latitude:     -10.536424AMSL:     2296.8306 
+12:03:58:Change positon, object ID:1013    Longitude:    33.84093  Latitude:     81.83095  AMSL:     676.9015  
+12:03:58:Change positon, object ID:984     Longitude:    20.370777 Latitude:     -67.73591 AMSL:     2567.2583 
+12:03:58:Change positon, object ID:1143    Longitude:    -0.749077 Latitude:     20.052593 AMSL:     7839.941  
+12:03:58:Change positon, object ID:980     Longitude:    139.57149 Latitude:     63.623093 AMSL:     276.91754 
+12:03:58:Change positon, object ID:1019    Longitude:    97.861275 Latitude:     -53.845642AMSL:     3756.995  
+12:03:58:Wrong object ID:      321     
+12:03:58:Change positon, object ID:1073    Longitude:    47.96795  Latitude:     -5.012481 AMSL:     5423.5605 
+12:03:58:Change positon, object ID:1036    Longitude:    -24.074   Latitude:     -12.826984AMSL:     6723.151  
+12:03:58:Change positon, object ID:1103    Longitude:    -108.28665Latitude:     -70.61774 AMSL:     2954.6252 
+12:03:58:Change positon, object ID:1088    Longitude:    -169.05829Latitude:     -8.535289 AMSL:     1039.7069 
+12:03:58:Change positon, object ID:1000    Longitude:    140.71909 Latitude:     -83.64768 AMSL:     1392.2837 
+12:03:58:Change positon, object ID:1175    Longitude:    155.66397 Latitude:     13.467536 AMSL:     4464.936  
+12:03:58:Change positon, object ID:1008    Longitude:    13.895434 Latitude:     -63.151962AMSL:     6397.2964 
+12:03:58:Change positon, object ID:1013    Longitude:    32.557625 Latitude:     2.161791  AMSL:     2058.9192 
+12:03:58:Change positon, object ID:984     Longitude:    35.00642  Latitude:     -27.659632AMSL:     92.23284  
+12:03:58:Change positon, object ID:1143    Longitude:    -149.48839Latitude:     20.7811   AMSL:     2120.0967 
+12:03:58:Change positon, object ID:980     Longitude:    -56.339127Latitude:     42.637367 AMSL:     9883.734  
+12:03:58:Change positon, object ID:1019    Longitude:    -4.987317 Latitude:     21.58896  AMSL:     9201.4375 
+12:03:58:Change contacts, object ID:234     New phone:    382-227-2487  New email:    hjghjchbxjgb@abilitys.site
+12:03:58:Change contacts, object ID:102     New phone:    383-287-1506  New email:    nebolondicsal@nguyenvuquocanh.com
+12:03:58:Change contacts, object ID:265     New phone:    320-401-1385  New email:    nekropolis@becknellsbakery.com
+12:03:58:Change contacts, object ID:156     New phone:    153-734-8335  New email:    vicay2006@ebarg.net      
+12:03:59:Change contacts, object ID:163     New phone:    633-644-7562  New email:    judsuss@naverly.com      
+12:03:59:Change contacts, object ID:264     New phone:    505-331-4035  New email:    gr8find@abilitys.site    
+12:03:59:Change contacts, object ID:157     New phone:    132-878-5307  New email:    jaclyn78@abilitys.site   
+12:03:59:Change contacts, object ID:261     New phone:    430-361-7186  New email:    shaitis@centromedicoesteticodsagas.com
+12:03:59:Change contacts, object ID:251     New phone:    385-172-2321  New email:    eyon@btcmod.com          
+12:03:59:Wrong object ID:      171     
+12:03:59:Change contacts, object ID:115     New phone:    635-084-5411  New email:    bevzsergey1972@domiaaan2.online
+12:03:59:Change contacts, object ID:144     New phone:    076-370-5877  New email:    ertan4@villastream.xyz   
+12:03:59:Change contacts, object ID:154     New phone:    885-053-2101  New email:    voteforpablo@dealyaari.com
+12:03:59:Change contacts, object ID:281     New phone:    784-272-4668  New email:    saver7@degioparfume.com  
+12:03:59:Change contacts, object ID:131     New phone:    070-023-1168  New email:    strobl@rhafhamed.online  
+12:03:59:Change contacts, object ID:223     New phone:    311-773-0422  New email:    ckwon@sdaouig2.shop      
+12:03:59:Change contacts, object ID:248     New phone:    707-216-4622  New email:    sukur1995tm@havenbeat.com
+12:03:59:Wrong object ID:      171     
+12:03:59:Change contacts, object ID:270     New phone:    267-744-0251  New email:    heats302@supersetsbarbershop.com
+12:03:59:Change contacts, object ID:255     New phone:    368-463-7437  New email:    s151236@alphabrc.com     
+12:03:59:Change contacts, object ID:112     New phone:    064-178-6230  New email:    oksanahatipova@degioparfume.com
+12:03:59:Change contacts, object ID:250     New phone:    277-008-6812  New email:    alanste@koreaful.com     
+12:03:59:Change contacts, object ID:268     New phone:    524-850-0158  New email:    lanselot095@alexcabrera.net
+12:03:59:Change contacts, object ID:148     New phone:    166-418-6830  New email:    sleeepy3@sportscardsfanatics.com
+12:03:59:Wrong object ID:      147     
+12:03:59:Change contacts, object ID:239     New phone:    466-371-4357  New email:    varstar@sportscardsfanatics.com
+12:03:59:Change contacts, object ID:206     New phone:    431-481-8456  New email:    deirdre10@speeddataanalytics.com
+12:03:59:Change contacts, object ID:281     New phone:    867-441-4812  New email:    nofear7@maintenances.us  
+12:03:59:Wrong object ID:      104     
+12:03:59:Change contacts, object ID:247     New phone:    106-665-7586  New email:    nikitalykov74@kongtoan.com
+12:03:59:Change contacts, object ID:237     New phone:    673-107-2151  New email:    mrmojo23@otpku.com       
+12:04:00:Change contacts, object ID:295     New phone:    424-487-6120  New email:    aren01@muataikhoan.info  
+12:04:00:Change contacts, object ID:122     New phone:    878-343-0016  New email:    ggfre@domiaaan2.online   
+12:04:00:Change contacts, object ID:127     New phone:    712-023-7872  New email:    muhidshamsudinov@rftdsagfdsv.shop
+12:04:00:Change contacts, object ID:285     New phone:    063-852-3407  New email:    asiak@utplexpotrabajos.com
+12:04:00:Change contacts, object ID:115     New phone:    342-403-6232  New email:    rmbpjvc@mytempmail.org   
+12:04:00:Change contacts, object ID:243     New phone:    578-537-2813  New email:    lance199115@utplexpotrabajos.com
+12:04:00:Change contacts, object ID:217     New phone:    872-423-1725  New email:    dawidklingbein@ranchodasimpex.com
+12:04:00:Change contacts, object ID:183     New phone:    043-566-5860  New email:    gored47024@adsta415-674-2836m.com
+--- Logger closed ---
+--- Logger opened ---
+17:20:11:Busy object ID:       10      
+17:20:11:Wrong object ID:      10      
+17:20:12:Change object ID:     from:   55      to:  1631    
+17:20:12:Change object ID:     from:   340     to:  2209    
+17:20:12:Change object ID:     from:   457     to:  1236    
+17:20:12:Change object ID:     from:   506     to:  2033    
+17:20:12:Change object ID:     from:   147     to:  2401    
+17:20:12:Change object ID:     from:   574     to:  1962    
+17:20:12:Change object ID:     from:   1070    to:  1579    
+17:20:12:Change object ID:     from:   618     to:  1158    
+17:20:12:Wrong object ID:      1326    
+17:20:12:Change object ID:     from:   104     to:  1315    
+17:20:12:Wrong object ID:      1472    
+17:20:12:Wrong object ID:      1392    
+17:20:12:Wrong object ID:      1481    
+17:20:12:Change object ID:     from:   182     to:  1005    
+17:20:12:Change object ID:     from:   29      to:  2089    
+17:20:12:Wrong object ID:      1485    
+17:20:12:Change object ID:     from:   499     to:  1329    
+17:20:12:Wrong object ID:      1475    
+17:20:12:Change object ID:     from:   171     to:  2098    
+17:20:12:Change object ID:     from:   357     to:  2203    
+17:20:12:Change object ID:     from:   358     to:  1027    
+17:20:12:Wrong object ID:      1347    
+17:20:12:Change object ID:     from:   962     to:  1527    
+17:20:12:Change object ID:     from:   627     to:  1561    
+17:20:12:Change object ID:     from:   792     to:  1234    
+17:20:12:Change object ID:     from:   650     to:  2321    
+17:20:12:Wrong object ID:      1431    
+17:20:12:Change object ID:     from:   740     to:  2215    
+17:20:12:Change object ID:     from:   475     to:  1630    
+17:20:12:Change positon, object ID:1073    Longitude:    -145.21829Latitude:     -87.924355AMSL:     292.1136  
+17:20:13:Change positon, object ID:1036    Longitude:    -115.52941Latitude:     -65.998566AMSL:     7409.812  
+17:20:13:Change positon, object ID:1103    Longitude:    -67.17546 Latitude:     -59.330032AMSL:     3202.3145 
+17:20:13:Change positon, object ID:1088    Longitude:    48.47077  Latitude:     27.736376 AMSL:     9320.949  
+17:20:13:Change positon, object ID:1000    Longitude:    15.235422 Latitude:     53.14479  AMSL:     9944.197  
+17:20:13:Change positon, object ID:1175    Longitude:    -55.384537Latitude:     87.035736 AMSL:     2779.9148 
+17:20:13:Change positon, object ID:1008    Longitude:    96.664536 Latitude:     56.606426 AMSL:     457.798   
+17:20:13:Change positon, object ID:1013    Longitude:    -146.93097Latitude:     54.21434  AMSL:     7967.9062 
+17:20:13:Change positon, object ID:984     Longitude:    -171.53268Latitude:     -73.83688 AMSL:     4522.8696 
+17:20:13:Change positon, object ID:1143    Longitude:    -5.95481  Latitude:     -6.869265 AMSL:     9238.392  
+17:20:13:Change positon, object ID:980     Longitude:    -82.12707 Latitude:     1.479755  AMSL:     444.67447 
+17:20:13:Change positon, object ID:1019    Longitude:    -18.238646Latitude:     63.14051  AMSL:     5672.0625 
+17:20:13:Wrong object ID:      321     
+17:20:13:Change positon, object ID:1073    Longitude:    -108.147354Latitude:     27.09598  AMSL:     3119.7957 
+17:20:13:Change positon, object ID:1036    Longitude:    -103.43464Latitude:     60.96732  AMSL:     4672.3745 
+17:20:13:Change positon, object ID:1103    Longitude:    -161.88493Latitude:     -79.42511 AMSL:     777.99915 
+17:20:13:Change positon, object ID:1088    Longitude:    -140.51558Latitude:     81.17543  AMSL:     7980.634  
+17:20:13:Change positon, object ID:1000    Longitude:    -133.23634Latitude:     -13.053079AMSL:     6928.403  
+17:20:13:Change positon, object ID:1175    Longitude:    148.0308  Latitude:     -66.756035AMSL:     5280.3286 
+17:20:13:Change positon, object ID:1008    Longitude:    -54.132835Latitude:     -10.536424AMSL:     2296.8306 
+17:20:13:Change positon, object ID:1013    Longitude:    33.84093  Latitude:     81.83095  AMSL:     676.9015  
+17:20:13:Change positon, object ID:984     Longitude:    20.370777 Latitude:     -67.73591 AMSL:     2567.2583 
+17:20:13:Change positon, object ID:1143    Longitude:    -0.749077 Latitude:     20.052593 AMSL:     7839.941  
+17:20:13:Change positon, object ID:980     Longitude:    139.57149 Latitude:     63.623093 AMSL:     276.91754 
+17:20:13:Change positon, object ID:1019    Longitude:    97.861275 Latitude:     -53.845642AMSL:     3756.995  
+17:20:13:Wrong object ID:      321     
+17:20:14:Change positon, object ID:1073    Longitude:    47.96795  Latitude:     -5.012481 AMSL:     5423.5605 
+17:20:14:Change positon, object ID:1036    Longitude:    -24.074   Latitude:     -12.826984AMSL:     6723.151  
+17:20:14:Change positon, object ID:1103    Longitude:    -108.28665Latitude:     -70.61774 AMSL:     2954.6252 
+17:20:14:Change positon, object ID:1088    Longitude:    -169.05829Latitude:     -8.535289 AMSL:     1039.7069 
+17:20:14:Change positon, object ID:1000    Longitude:    140.71909 Latitude:     -83.64768 AMSL:     1392.2837 
+17:20:14:Change positon, object ID:1175    Longitude:    155.66397 Latitude:     13.467536 AMSL:     4464.936  
+17:20:14:Change positon, object ID:1008    Longitude:    13.895434 Latitude:     -63.151962AMSL:     6397.2964 
+17:20:14:Change positon, object ID:1013    Longitude:    32.557625 Latitude:     2.161791  AMSL:     2058.9192 
+17:20:14:Change positon, object ID:984     Longitude:    35.00642  Latitude:     -27.659632AMSL:     92.23284  
+17:20:14:Change positon, object ID:1143    Longitude:    -149.48839Latitude:     20.7811   AMSL:     2120.0967 
+17:20:14:Change positon, object ID:980     Longitude:    -56.339127Latitude:     42.637367 AMSL:     9883.734  
+17:20:14:Change positon, object ID:1019    Longitude:    -4.987317 Latitude:     21.58896  AMSL:     9201.4375 
+17:20:14:Change contacts, object ID:234     New phone:    382-227-2487  New email:    hjghjchbxjgb@abilitys.site
+17:20:14:Change contacts, object ID:102     New phone:    383-287-1506  New email:    nebolondicsal@nguyenvuquocanh.com
+17:20:14:Change contacts, object ID:265     New phone:    320-401-1385  New email:    nekropolis@becknellsbakery.com
+17:20:14:Change contacts, object ID:156     New phone:    153-734-8335  New email:    vicay2006@ebarg.net      
+17:20:14:Change contacts, object ID:163     New phone:    633-644-7562  New email:    judsuss@naverly.com      
+17:20:14:Change contacts, object ID:264     New phone:    505-331-4035  New email:    gr8find@abilitys.site    
+17:20:14:Change contacts, object ID:157     New phone:    132-878-5307  New email:    jaclyn78@abilitys.site   
+17:20:14:Change contacts, object ID:261     New phone:    430-361-7186  New email:    shaitis@centromedicoesteticodsagas.com
+17:20:14:Change contacts, object ID:251     New phone:    385-172-2321  New email:    eyon@btcmod.com          
+17:20:14:Wrong object ID:      171     
+17:20:14:Change contacts, object ID:115     New phone:    635-084-5411  New email:    bevzsergey1972@domiaaan2.online
+17:20:15:Change contacts, object ID:144     New phone:    076-370-5877  New email:    ertan4@villastream.xyz   
+17:20:15:Change contacts, object ID:154     New phone:    885-053-2101  New email:    voteforpablo@dealyaari.com
+17:20:15:Change contacts, object ID:281     New phone:    784-272-4668  New email:    saver7@degioparfume.com  
+17:20:15:Change contacts, object ID:131     New phone:    070-023-1168  New email:    strobl@rhafhamed.online  
+17:20:15:Change contacts, object ID:223     New phone:    311-773-0422  New email:    ckwon@sdaouig2.shop      
+17:20:15:Change contacts, object ID:248     New phone:    707-216-4622  New email:    sukur1995tm@havenbeat.com
+17:20:15:Wrong object ID:      171     
+17:20:15:Change contacts, object ID:270     New phone:    267-744-0251  New email:    heats302@supersetsbarbershop.com
+17:20:15:Change contacts, object ID:255     New phone:    368-463-7437  New email:    s151236@alphabrc.com     
+17:20:15:Change contacts, object ID:112     New phone:    064-178-6230  New email:    oksanahatipova@degioparfume.com
+17:20:15:Change contacts, object ID:250     New phone:    277-008-6812  New email:    alanste@koreaful.com     
+17:20:15:Change contacts, object ID:268     New phone:    524-850-0158  New email:    lanselot095@alexcabrera.net
+17:20:15:Change contacts, object ID:148     New phone:    166-418-6830  New email:    sleeepy3@sportscardsfanatics.com
+17:20:15:Wrong object ID:      147     
+17:20:15:Change contacts, object ID:239     New phone:    466-371-4357  New email:    varstar@sportscardsfanatics.com
+17:20:15:Change contacts, object ID:206     New phone:    431-481-8456  New email:    deirdre10@speeddataanalytics.com
+17:20:15:Change contacts, object ID:281     New phone:    867-441-4812  New email:    nofear7@maintenances.us  
+17:20:15:Wrong object ID:      104     
+17:20:15:Change contacts, object ID:247     New phone:    106-665-7586  New email:    nikitalykov74@kongtoan.com
+17:20:15:Change contacts, object ID:237     New phone:    673-107-2151  New email:    mrmojo23@otpku.com       
+17:20:15:Change contacts, object ID:295     New phone:    424-487-6120  New email:    aren01@muataikhoan.info  
+17:20:15:Change contacts, object ID:122     New phone:    878-343-0016  New email:    ggfre@domiaaan2.online   
+17:20:15:Change contacts, object ID:127     New phone:    712-023-7872  New email:    muhidshamsudinov@rftdsagfdsv.shop
+17:20:15:Change contacts, object ID:285     New phone:    063-852-3407  New email:    asiak@utplexpotrabajos.com
+17:20:15:Change contacts, object ID:115     New phone:    342-403-6232  New email:    rmbpjvc@mytempmail.org   
+17:20:15:Change contacts, object ID:243     New phone:    578-537-2813  New email:    lance199115@utplexpotrabajos.com
+17:20:15:Change contacts, object ID:217     New phone:    872-423-1725  New email:    dawidklingbein@ranchodasimpex.com
+17:20:15:Change contacts, object ID:183     New phone:    043-566-5860  New email:    gored47024@adsta415-674-2836m.com
+--- Logger closed ---

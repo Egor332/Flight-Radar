@@ -42,7 +42,7 @@ namespace FlightRadar.Sources_and_storages
                 (lon, lat) = GetCurrentLonLat(flight, precentage);
 
                 flight.Latitude = lat;
-                flight.Longtitude = lon;
+                flight.Longitude = lon;
 
                 FlightGUI newFlightGUI = new FlightGUI
                 {
@@ -70,9 +70,11 @@ namespace FlightRadar.Sources_and_storages
                 Single lon;
                 Single lat;
                 (lon, lat) = GetCurrentLonLat(flight, percentage);
+                
+                double angle = GetAngle(lon, lat, flight.Longitude, flight.Latitude);
 
-                double angle = GetAngle(lon, lat, flight.Longtitude, flight.Latitude);
-
+                flight.Latitude = lat;
+                flight.Longitude = lon;
                 FlightGUI newFlightGUI = new FlightGUI
                 {
                     ID = flight.Id,
@@ -82,6 +84,7 @@ namespace FlightRadar.Sources_and_storages
                 flightsGUI.Add(newFlightGUI);
             }
             _FlightsData.UpdateFlights(flightsGUI);
+            
         }
         
         private Single FindPrecentageOfFlight(string TakeOffTime, string LandingTime)

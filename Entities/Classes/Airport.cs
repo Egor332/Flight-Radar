@@ -1,4 +1,5 @@
-﻿using FlightRadar.Entities.Classes.Media;
+﻿using FlightRadar.Entities.Abstract_classes;
+using FlightRadar.Entities.Classes.Media;
 using FlightRadar.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -8,14 +9,11 @@ using System.Threading.Tasks;
 
 namespace FlightRadar
 {
-    internal class Airport : BaseOfAll, IReportable
+    internal class Airport : PositionObject, IReportable
     {
         public const string Object = "AI";
         public string Name;
         public string Code;
-        public Single Longitude;
-        public Single Latitude;
-        public Single AMSL;
         public string Country; // ISO
 
         public Airport(UInt64 id, string name, string code, Single longitude, Single latitude, Single AMSL, string country) : base(id)

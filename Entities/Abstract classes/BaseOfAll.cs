@@ -9,7 +9,7 @@ namespace FlightRadar
 {
     internal abstract class BaseOfAll
     {
-        public readonly UInt64 Id;
+        public UInt64 Id;
 
         public BaseOfAll(UInt64 id)
         {

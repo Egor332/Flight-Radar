@@ -1,6 +1,7 @@
 ﻿using FlightRadar.Entities.Classes.Media;
 using FlightRadar.Interfaces;
 using FlightRadar.Sources_and_storages;
+using FlightRadar.Sources_and_storages.Information_getters;
 using FlightRadar.Sources_and_storages.Storages;
 using NetworkSourceSimulator;
 using System.Text.Json;
@@ -22,6 +23,7 @@ namespace FlightRadar
             Data data1 = new Data();
             MediaData defaultMedia = new MediaData();
             Generator generator = new Generator(dataMutex);
+            ChangeLogger changeLogger = new ChangeLogger(new StreamWriter("log_from_" + DateTime.Now.ToString("d_MM"), true));
 
             Thread terminalThread = new Thread(() => TerminalWork(data1, defaultMedia));
 
@@ -29,19 +31,12 @@ namespace FlightRadar
 
             // use reading from ftr file
             UseReadingFormFile(out data1, generator);
-
-            // use server reading
-            /*NetworkSourceSimulator.NetworkSourceSimulator server = new NetworkSourceSimulator.NetworkSourceSimulator("example.ftre", 10, 50);
-            Thread serverThread = new Thread(() => ServerWork(server));
-            MessageHandler messageHandler = new MessageHandler(data1, server, generator);
-            server.OnNewDataReady += messageHandler.HandleNewDataReady;
-            server.OnIDUpdate += messageHandler.HandleIDUpdate;
-            server.OnPositionUpdate += messageHandler.HandlePositionUpdate;
-            server.OnContactInfoUpdate += messageHandler.HandleContactInfoUpdate;
-            serverThread.Start();*/
-
+                       
             terminalThread.Start();
             GUIThread.Start();
+
+            
+            UseServerReadingUpdates(data1, generator, "example.ftre", changeLogger);
 
             while ((!exitCommand) && (!serverEnd)) { }
 
@@ -64,6 +59,8 @@ namespace FlightRadar
             }
             GUIThread.Interrupt();
 
+            changeLogger.Close();
+
             data1.WriteToJson("DataInJson.json");
         }
 
@@ -72,10 +69,11 @@ namespace FlightRadar
             throw new NotImplementedException();
         }
 
-        static void ServerWork(NetworkSourceSimulator.NetworkSourceSimulator server)
+        static void ServerWork(NetworkSourceSimulator.NetworkSourceSimulator server, int sleepTime)
         {
             try
             {
+                Thread.Sleep(sleepTime);
                 server.Run();
                 Console.WriteLine("Server: all data has been send");
             }
@@ -86,12 +84,24 @@ namespace FlightRadar
             serverEnd = true;
         }
 
-        static void UseServerReading(Data data, Generator generator)
+        static void UseServerReading(Data data, Generator generator, string fileName)
         {
-            NetworkSourceSimulator.NetworkSourceSimulator server = new NetworkSourceSimulator.NetworkSourceSimulator("example_data.ftr", 10, 50);
-            Thread serverThread = new Thread(() => ServerWork(server));
+            NetworkSourceSimulator.NetworkSourceSimulator server = new NetworkSourceSimulator.NetworkSourceSimulator(fileName, 10, 50);
+            Thread serverThread = new Thread(() => ServerWork(server, 0));
             MessageHandler messageHandler = new MessageHandler(data, server, generator);
             server.OnNewDataReady += messageHandler.HandleNewDataReady;
+            serverThread.Start();
+        }
+
+        static void UseServerReadingUpdates(Data data, Generator generator, string fileName, ChangeLogger changeLogger)
+        {
+            NetworkSourceSimulator.NetworkSourceSimulator server = new NetworkSourceSimulator.NetworkSourceSimulator(fileName, 10, 50);
+            Thread serverThread = new Thread(() => ServerWork(server, 4000));                        
+            MessageHandler messageHandler = new MessageHandler(data, server, generator, changeLogger);
+            server.OnNewDataReady += messageHandler.HandleNewDataReady;
+            server.OnIDUpdate += messageHandler.HandleIDUpdate;
+            server.OnPositionUpdate += messageHandler.HandlePositionUpdate;
+            server.OnContactInfoUpdate += messageHandler.HandleContactInfoUpdate;
             serverThread.Start();
 
         }

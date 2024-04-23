@@ -1,5 +1,4 @@
-﻿using FlightRadar.Entities.Abstract_classes;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FlightRadar
 {
-    internal class Passenger : Human, ILoadable
+    internal class Passenger : Human
     {
         public const string Object = "P";
         public string Class;
