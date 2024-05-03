@@ -35,7 +35,7 @@ namespace FlightRadar
             terminalThread.Start();
             GUIThread.Start();
 
-            
+            // use updates
             UseServerReadingUpdates(data1, generator, "example.ftre", changeLogger);
 
             while ((!exitCommand) && (!serverEnd)) { }
