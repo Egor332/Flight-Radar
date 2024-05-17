@@ -1,5 +1,6 @@
 ﻿using FlightRadar.Entities.Classes.Media;
 using FlightRadar.Interfaces;
+using FlightRadar.Query;
 using FlightRadar.Sources_and_storages;
 using FlightRadar.Sources_and_storages.Information_getters;
 using FlightRadar.Sources_and_storages.Storages;
@@ -123,7 +124,7 @@ namespace FlightRadar
                 {
                     serverEnd = true;
                     exitCommand = true;
-                    
+                    continue;                    
                 }
 
                 if (input.ToLower() == "print")
@@ -134,6 +135,7 @@ namespace FlightRadar
                         "_" + dateTime.Second.ToString() + ".json";
                     data.WriteToJson(fileName);
                     dataMutex.ReleaseMutex();
+                    continue;
                 }
                 if (input.ToLower() == "report")
                 {
@@ -149,12 +151,28 @@ namespace FlightRadar
                     {
                         Console.WriteLine(reportString);
                     }
+                    continue;
                 }
                 if (input.ToLower() == "sotp")
                 {
                     serverEnd = true;
+                    continue;
                 }
+
+                // only queries can come here
+                WorkWithQuery(input);
             }
+        }
+
+        static void WorkWithQuery(string query)
+        {
+            QuerySeparator querySeparator = new QuerySeparator(query);
+            try
+            {
+                querySeparator.TrySeparateQuery();
+            }
+            catch (Exception ex) { }
+                
         }
 
         static void GraphicalWork()

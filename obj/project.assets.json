@@ -2592,11 +2592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kegor\\source\\repos\\FLightRadar\\FlightRadar.csproj",
+      "projectUniqueName": "C:\\Users\\kegor\\Source\\Repos\\Egor332\\Flight-Radar\\FlightRadar.csproj",
       "projectName": "FlightRadar",
-      "projectPath": "C:\\Users\\kegor\\source\\repos\\FLightRadar\\FlightRadar.csproj",
+      "projectPath": "C:\\Users\\kegor\\Source\\Repos\\Egor332\\Flight-Radar\\FlightRadar.csproj",
       "packagesPath": "C:\\Users\\kegor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kegor\\source\\repos\\FLightRadar\\obj\\",
+      "outputPath": "C:\\Users\\kegor\\Source\\Repos\\Egor332\\Flight-Radar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kegor\\AppData\\Roaming\\NuGet\\NuGet.Config",
