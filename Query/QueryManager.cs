@@ -30,24 +30,24 @@ namespace FlightRadar.Query
 
         public void DoDisplay(string from, string[] fieldsName, string whereConditions)
         {
-            try { _Managers[from].DoDisplay(fieldsName, whereConditions); } catch { }
+            try { _Managers[from].DoDisplay(fieldsName, whereConditions); } catch { throw new Exceptions.InvalidClassNameException(from); }
         }
 
         public void DoUpdate(string from, string[] toSet, string whereConditions)
         {
-            try { _Managers[from].DoUpdate(toSet, whereConditions); } catch { }
+            try { _Managers[from].DoUpdate(toSet, whereConditions); } catch { throw new Exceptions.InvalidClassNameException(from); }
 
         }
 
         public void DoDelete(string from, string whereConditions)
         {
-            try { _Managers[from].DoDelete(whereConditions); } catch { }
+            try { _Managers[from].DoDelete(whereConditions); } catch { throw new Exceptions.InvalidClassNameException(from); }
         }
 
         public void DoAdd(string from, string[] toSet)
         {
 
-            try { _Managers[from].DoAdd(toSet); } catch { }
+            try { _Managers[from].DoAdd(toSet); } catch { throw new Exceptions.InvalidClassNameException(from); }
         }
 
     }

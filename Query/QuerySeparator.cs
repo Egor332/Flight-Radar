@@ -16,16 +16,19 @@ namespace FlightRadar.Query
             { "add", (words) => AddSeparation(words) }
         };
 
-        private string _QuerryString;
+        private string _QueryString;
 
-        public QuerySeparator(string queryString)
+        private QueryManager _QueryManger;
+
+        public QuerySeparator(string queryString, Data data)
         {
-            _QuerryString = queryString;
+            _QueryString = queryString;
+            _QueryManger = new QueryManager(data);
         }
 
         public void TrySeparateQuery()
         {
-            string[] words = _QuerryString.Split(' ');
+            string[] words = _QueryString.Split(' ');
             try
             {
                 _QueryDictionaty[words[0].ToLower()].Invoke(words);
@@ -36,12 +39,12 @@ namespace FlightRadar.Query
             }                                              
         }
 
-        private static void DisplaySeparation(string[] words)
+        private void DisplaySeparation(string[] words)
         {
             List<string> fieldsName = new List<string>();
             int indicator = 0;
-            string from;
-            List<string> whereConditions = new List<string>();
+            string from = "";
+            StringBuilder whereConditions = new StringBuilder();
             for(int i = 1; i < words.Length; i++)
             {
                 if ((words[i].ToLower() == "from") || (words[i].ToLower() == "where"))
@@ -62,18 +65,19 @@ namespace FlightRadar.Query
                 }
                 if (indicator == 3)
                 {
-                    whereConditions.Add(words[i].Replace(",", ""));
+                    whereConditions.Append(words[i]);
                     continue;
                 }
                 throw new Exceptions.InvalidQuerySyntaxException();
             }
+            _QueryManger.DoDisplay(from, fieldsName.ToArray(), whereConditions.ToString());
         }
 
-        private static void UpdateSeparation(string[] words)
+        private void UpdateSeparation(string[] words)
         {
             string from = words[1];
             List<string> toSet = new List<string>();
-            List<string> whereConditions = new List<string>();
+            StringBuilder whereConditions = new StringBuilder();
             int indicator = 0;
             for (int i = 2; i < words.Length; i++)
             {
@@ -89,32 +93,32 @@ namespace FlightRadar.Query
                 }
                 if (indicator == 2)
                 {
-                    whereConditions.Add(words[i].Replace(",", ""));
+                    whereConditions.Append(words[i]);
                     continue;
                 }
                 throw new Exceptions.InvalidQuerySyntaxException();
 
             }
-                      
+            _QueryManger.DoUpdate(from, words.ToArray(), whereConditions.ToString());         
 
         }
 
-        private static void DeleteSeparation(string[] words)
+        private void DeleteSeparation(string[] words)
         {
             string from = words[1];
             if (words[2].ToLower() != "where")
             {
                 throw new Exceptions.InvalidQuerySyntaxException(words[2]);
             }
-            List<string> whereConditions = new List<string>();
+            StringBuilder whereConditions = new StringBuilder();
             for (int i = 3; i < words.Length; i++)
             {
-                whereConditions.Add(words[i].Replace(",", ""));
+                whereConditions.Append(words[i]);
             }
-
+            _QueryManger.DoDelete(from, whereConditions.ToString());
         }
 
-        private static void AddSeparation(string[] words)
+        private void AddSeparation(string[] words)
         {
             string from = words[1];
             if (words[2].ToLower() != "new")
@@ -126,7 +130,7 @@ namespace FlightRadar.Query
             {
                 toSet.Add(words[i].Replace(",", ""));
             }
-
+            _QueryManger.DoAdd(from, toSet.ToArray());
         }
     }
 }

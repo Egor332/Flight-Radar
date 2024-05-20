@@ -160,13 +160,13 @@ namespace FlightRadar
                 }
 
                 // only queries can come here
-                WorkWithQuery(input);
+                WorkWithQuery(input, data);
             }
         }
 
-        static void WorkWithQuery(string query)
+        static void WorkWithQuery(string query, Data data)
         {
-            QuerySeparator querySeparator = new QuerySeparator(query);
+            QuerySeparator querySeparator = new QuerySeparator(query, data);
             try
             {
                 querySeparator.TrySeparateQuery();

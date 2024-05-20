@@ -10,7 +10,7 @@ namespace FlightRadar.Query.Exceptions
     {
         public InvalidQuerySyntaxException(string word) : base()
         {
-            Console.WriteLine("InvalidQuerySyntaxException: type in word: " + word);
+            Console.WriteLine("InvalidQuerySyntaxException: typo in word: " + word);
         }
         public InvalidQuerySyntaxException() : base() { }
     }
